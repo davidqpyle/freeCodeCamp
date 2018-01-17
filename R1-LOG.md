@@ -38,7 +38,7 @@ I'm publicly committing to the 100DaysOfCode Challenge starting today! Learn Mor
 ### Day 5: January 17. Wednesday
 
 **Today's Progress**: Set up GitHub, watched tutorials and read articles related to the use of GitHub. Installed on my Linux and working with CLI to clone reps, update files, get status, add files, learn to comment my commits ( -m ) 
-Set up my daily log for my #100DaysOfCode challenge.
+Set up my daily log for my #100DaysOfCode challenge. Completed the 'jQuery' in the Front End Development Certification course!
 
 **Thoughts**: Gotta crawl before you walk
 
@@ -46,3 +46,4 @@ Set up my daily log for my #100DaysOfCode challenge.
 https://guides.github.com/activities/hello-world/
 https://youtu.be/0fKg7e37bQE
 https://help.github.com/articles/basic-writing-and-formatting-syntax/
+Tweet link: https://twitter.com/davidqpyle/status/953764679834324992
