@@ -2,7 +2,7 @@
 ## Log of Round 1 of #100DaysOfCode - done in 2018
 
 ### Day 1: January 13. Saturday
-Committed publicly that I am starting #100DaysOf Coding:
+Committed publicly that I am starting #100DaysOfCode:
 I'm publicly committing to the 100DaysOfCode Challenge starting today! Learn More and Join me! http://100DaysOfCode.com  #100DaysOfCode Today I went through Lessons 13-37 on the #freeCodeCamp front end certification challenge
 
 **Today's Progress**: Today I went through Lessons 13-37 on the #freeCodeCamp front end certification challenge
@@ -34,3 +34,15 @@ I'm publicly committing to the 100DaysOfCode Challenge starting today! Learn Mor
 **Thoughts**: Stay the course
 
 **Link to work**: Tweet link https://twitter.com/davidqpyle/status/953401646809219072
+
+### Day 5: January 17. Wednesday
+
+**Today's Progress**: Set up GitHub, watched tutorials and read articles related to the use of GitHub. Installed on my Linux and working with CLI to clone reps, update files, get status, add files, learn to comment my commits ( -m ) 
+Set up my daily log for my #100DaysOfCode challenge.
+
+**Thoughts**: Gotta crawl before you walk
+
+**Link to work**: I used the following to learn more about GitHub:
+https://guides.github.com/activities/hello-world/
+https://youtu.be/0fKg7e37bQE
+https://help.github.com/articles/basic-writing-and-formatting-syntax/
