@@ -63,4 +63,4 @@ Tweet link: https://twitter.com/davidqpyle/status/953764679834324992
 **Thoughts**: Noticed some bootstrap elements are not 'all-browser' compliant...ugg. Looks differently in Firefox than Chrome, for example.
 
 **Link to work**: https://codepen.io/davidqpyle/pen/OzrNjX 
-Twitter link: https://twitter.com/davidqpyle/status/954447265808216065
+Tweet link: https://twitter.com/davidqpyle/status/954447265808216065
