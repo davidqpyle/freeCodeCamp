@@ -55,3 +55,12 @@ Tweet link: https://twitter.com/davidqpyle/status/953764679834324992
 **Thoughts**: I need to see what other sites are available for Bootstrap tips and tricks. Currently learning version 4.
 
 **Link to work**: CodePen site: https://codepen.io/davidqpyle/pen/OzrNjX Tweet link: https://twitter.com/davidqpyle/status/953764679834324992
+
+### Day 7: January 19. Friday
+
+**Today's Progress**: Completed my 'Tribute Page' project on the 'Front End Development Certification' course. My tribute was to the late great Lemmy Kilmister 
+
+**Thoughts**: Noticed some bootstrap elements are not 'all-browser' compliant...ugg. Looks differently in Firefox than Chrome, for example.
+
+**Link to work**: https://codepen.io/davidqpyle/pen/OzrNjX 
+Twitter link: https://twitter.com/davidqpyle/status/954447265808216065
