@@ -47,3 +47,11 @@ https://guides.github.com/activities/hello-world/
 https://youtu.be/0fKg7e37bQE
 https://help.github.com/articles/basic-writing-and-formatting-syntax/
 Tweet link: https://twitter.com/davidqpyle/status/953764679834324992
+
+### Day 6: January 18. Thursday
+
+**Today's Progress**: Started the 'Tribute Page' project on the 'Front End Development Certification' course. Committed to only using Bootstrap. I am using getbootstrap.com resources like crazy just learning all the rules and syntax.
+
+**Thoughts**: I need to see what other sites are available for Bootstrap tips and tricks. Currently learning version 4.
+
+**Link to work**: CodePen site: https://codepen.io/davidqpyle/pen/OzrNjX Tweet link: https://twitter.com/davidqpyle/status/953764679834324992
