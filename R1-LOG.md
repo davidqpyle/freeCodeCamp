@@ -73,3 +73,12 @@ Tweet link: https://twitter.com/davidqpyle/status/954447265808216065
 
 **Link to work**: Tribute Page project file: https://github.com/davidqpyle/freeCodeCamp/blob/master/tribute-page.html
 Tweet link: https://twitter.com/davidqpyle/status/954868540326150144
+
+### Day 9: January 21. Sunday
+
+**Today's Progress**: Finished 1st part of 'Learn CSS Grid' on Scrimba as I want to incorporate this into my portfolio project instead of bootstrap. It's compliant across all browsers and appears to be less code and fuss.
+
+**Thoughts**: So many ways you can use new libraries and techniques to create layouts for front end development!
+
+**Link to work**: Scrimba course: https://scrimba.com/g/gR8PTE
+Tweet link: https://twitter.com/davidqpyle/status/955153254165504000
