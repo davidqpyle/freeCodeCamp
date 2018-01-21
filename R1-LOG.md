@@ -64,3 +64,12 @@ Tweet link: https://twitter.com/davidqpyle/status/953764679834324992
 
 **Link to work**: https://codepen.io/davidqpyle/pen/OzrNjX 
 Tweet link: https://twitter.com/davidqpyle/status/954447265808216065
+
+### Day 8: January 20. Saturday
+
+**Today's Progress**: Uploaded my Tribute Page code/file to GitHub repo. Reviewed the next project requirements for the Portfolio' project and started with initial design layout ideas. Started reading 'Practical Programming: An Introduction to Computer Science Using Python 3.6' as I want to sign up for the Coursera UofT's 'Learn to Program: The Fundamentals' course.
+
+**Thoughts**: Don't take on too much too soon and get burnt out! Don't a breath and approach each day as its own, not worrying about what you still need to accomplish!
+
+**Link to work**: Tribute Page project file: https://github.com/davidqpyle/freeCodeCamp/blob/master/tribute-page.html
+Tweet link: https://twitter.com/davidqpyle/status/954868540326150144
