@@ -82,3 +82,11 @@ Tweet link: https://twitter.com/davidqpyle/status/954868540326150144
 
 **Link to work**: Scrimba course: https://scrimba.com/g/gR8PTE
 Tweet link: https://twitter.com/davidqpyle/status/955153254165504000
+
+### Day 10: January 22. Monday
+
+**Today's Progress**: Not much today. I learned more about using CSS Grid fixed positions so I can incorporate it into my portfilio project. I need the navigation to stay fixed on the screen while scrolling. This means this 'container' needs to be in it's own grid or else you'll break the rest of the grid where content and footer would be. I also updated the Wordpress version on company site and registered additional domains.
+
+**Thoughts**: Goal is to have Portfolio Project completed by end of week, using as much CSS Grid as possible.
+
+**Link to work**: Tweet ink: https://twitter.com/davidqpyle/status/955645049747988480
