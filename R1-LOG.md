@@ -90,3 +90,4 @@ Tweet link: https://twitter.com/davidqpyle/status/955153254165504000
 **Thoughts**: Goal is to have Portfolio Project completed by end of week, using as much CSS Grid as possible.
 
 **Link to work**: Tweet ink: https://twitter.com/davidqpyle/status/955645049747988480
+Fixed position using CSS Grid: https://stackoverflow.com/questions/43999732/how-to-make-a-fixed-column-in-css-using-css-grid-layout
