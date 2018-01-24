@@ -91,3 +91,12 @@ Tweet link: https://twitter.com/davidqpyle/status/955153254165504000
 
 **Link to work**: Tweet ink: https://twitter.com/davidqpyle/status/955645049747988480
 Fixed position using CSS Grid: https://stackoverflow.com/questions/43999732/how-to-make-a-fixed-column-in-css-using-css-grid-layout
+
+### Day 11: January 23. Tuesday
+
+**Today's Progress**: Studied, read, practiced more CSS Grid articles, documentation, examples and blogs. Started practicing on the Portfolio Project. Installed 'Brackets' IDE.
+
+**Thoughts**: I'd really like to maybe specialize or focus on CSS Design and Coding
+
+**Link to work**: Tweet link: https://twitter.com/davidqpyle/status/955970579789737986
+Rachel Andrews: https://thecssworkshop.com/
