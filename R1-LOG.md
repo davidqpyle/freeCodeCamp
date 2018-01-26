@@ -100,3 +100,20 @@ Fixed position using CSS Grid: https://stackoverflow.com/questions/43999732/how-
 
 **Link to work**: Tweet link: https://twitter.com/davidqpyle/status/955970579789737986
 Rachel Andrews: https://thecssworkshop.com/
+
+### Day 12: January 24. Wednesday
+
+**Today's Progress**: Didn't feel like much progress was made. In fact, I felt like an idiot throughout the day trying to code my Portfolio Project. I have been trying to use CSS Grid and HTML, no other libraries or tools. I just hit a brick wall. I ended up reading about 4 hours of documentation related to CSS, HTML, Grid, Flex, you name it!
+
+**Thoughts**: There is SOOOOOOO much to learn and apply yet.
+
+**Link to work**: Tweet link: https://twitter.com/davidqpyle/status/956366303849340929
+
+### Day 13: January 25. Thursday
+
+**Today's Progress**: Although I hit a brick wall yesterday, I have pushed through and light has dawned on the areas I was having trouble getting my head around. I ended up getting my Portfolio Project 99.9% completed. I just need to tweak here or there for cosmetic/perfectionist ways. Uploaded a copy of the Portfolio Project code to GitHub.
+
+**Thoughts**: Remember to push and read and try...so the next day or so the answer is visible.
+
+**Link to work**: Project File: https://github.com/davidqpyle/freeCodeCamp/blob/master/Portfolio-Project.html
+Tweet link: https://twitter.com/davidqpyle/status/956702447195566080
