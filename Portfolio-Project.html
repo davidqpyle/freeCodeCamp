@@ -1,0 +1,222 @@
+body {
+   background-color: #1D1D1B;
+}
+.grid {
+    display: grid;
+    grid-auto-rows:100px 30px auto auto auto;
+  grid-template-columns: repeat(9, 1fr);
+    grid-gap: 6px;
+    grid-template-area: 
+        "h h h h h h h h h"
+        "1 1 1 2 2 2 3 3 3"
+        "c c c c c c c c c"
+        "d d d d d d d d d"
+        "f f f f f f f f f";
+}
+
+.header {
+    grid-column: 1 / -1;
+    grid-item: h;
+    background-color: #685149;
+}
+.nav1 {
+    grid-item: 1;
+    grid-column: 1 / 4;
+    background-color: #8D6E63;
+}
+.nav1:hover {
+  background-color: #685149;
+}
+.nav2 {
+    grid-item: 2;
+    grid-column: 4 / 7;
+    background-color: #8D6E63;
+}
+.nav2:hover {
+  background-color: #685149;
+}
+.nav3 {
+    grid-item: 3;
+    grid-column: 7 / 10;
+    background-color: #8D6E63;
+}
+.nav3:hover {
+  background-color: #685149;
+}
+.contentC {
+    grid-item: c;
+    grid-column: 1 / -1;
+    background-color: #8D6E63;
+}
+.contentD {
+    grid-item: d;
+    grid-column: 1 / -1;
+      background-color: #8D6E63;
+}
+.footer {
+    grid-item: f;
+    grid-column: 1 / -1;
+    background-color: #8D6E63;
+}
+.nav {
+  text-align: center;
+  padding: 4px;
+  font-family: arial;
+
+}
+.nav1 a {
+  color: black;
+  text-decoration: none;
+}
+.nav2 a {
+  color: black;
+  text-decoration: none;
+}
+.nav3 a {
+  color: black;
+  text-decoration: none;
+}
+.nav a:hover {
+  text-decoration: underline;
+}
+
+h1 {
+  font-family: arial;
+  text-align: center;
+
+}
+h1 a {
+  color: black;
+  text-decoration: none;
+}
+.content {
+  margin: 60px;
+}
+h2 {
+  text-align: left;
+  margin: 40px;
+  font-style: italic;
+  text-decoration: none;
+  font-family: arial;
+  font-size: 200%;
+}
+h3 {
+  text-align: center;
+  text-decoration: none;
+  font-style: italic;
+  font-family: arial;
+  font-size: 200%;
+}
+p {
+  font-family: arial;
+}
+h2 img {
+  float: right;
+  border-color: #685149;
+  border-width: 9px;
+  border-style: double;
+  border-radius: 50%;
+  padding:0px;
+  margin:40px;
+}
+.contentP img {
+  justify-items: center;
+  height: auto;
+  width: 40%;
+  padding: 5px;
+  border-radius: 8px;
+  border-style: solid;
+  border-width:2px;
+  border-color: #685149;
+  margin: 15px;
+}
+
+.caption {
+  font-family: arial;
+  font-size: 14px;
+  text-align: center;
+  padding: 10px 20px
+}
+.footer-nav {
+  text-align: center;
+  padding: 0px;
+  font-family: arial;
+}
+.footer-image img {
+  height: auto;
+  width: 4%;
+  padding: 0px;
+  margin: 0px;
+}
+
+<body>
+<div class="grid">
+  <div class="header">
+    <h1><a href="#">davidQpyle</a>
+    </h1>
+  </div>
+  <div class="nav1">
+    <a href="#about">
+    <div class="nav">About</div>
+    </a>
+  </div>
+  <div class="nav2"><a href="#port">
+    <div class="nav">Portfolio</div>
+    </a>
+  </div>
+  <div class="nav3"><a href="#contact">
+    <div class="nav">Contact</div>      
+    </a>
+  </div>
+  <div class="contentC" id="about">
+   <h2>
+     <img src="https://github.com/davidqpyle/freeCodeCamp/blob/master/davidqpyle.jpg?raw=true" alt="Picture of David Q Pyle" height="200" width="200">About Me...</h2>
+    <p class="content">Front-End Developer and UX/IX Designer with working knowledge in company branding, marketing and promotion. Experienced with website maintenance, customized Wordpress Templates, eCommerce Solutions and Advertising implementations, while being devoted to continued progamming training, industry standards, cutting-edge tools and writing clean code in all responsible projects.</p>
+   </div>
+  <div class="contentD" id="port">
+      <h3>Portfolio</h3>
+      <div class="contentP" align="middle">
+        <a href="https://codepen.io/davidqpyle/full/OzrNjX" target="_blank">
+        <img src="https://github.com/davidqpyle/freeCodeCamp/blob/master/Lemmy-tribute-page.png?raw=true" alt="Lemmy Tribute Page">
+        </a>
+        <a href="#">
+        <img src="https://github.com/davidqpyle/freeCodeCamp/blob/master/placeholder.png?raw=true" alt="Placeholder">
+        </a>
+        <a href="#">
+        <img src="https://github.com/davidqpyle/freeCodeCamp/blob/master/placeholder.png?raw=true" alt="Placeholder">
+        </a>
+        <a href="#">
+        <img src="https://github.com/davidqpyle/freeCodeCamp/blob/master/placeholder.png?raw=true" alt="Placeholder">
+        </a>
+        </div>
+ <p class="content">Many more examples to be added here in the future!</p>
+ </div>
+ <div class="footer" id="contact">
+   <div class="footer-nav">
+     <h3>Contact Me</h3>
+     <div class="footer-image" align="middle">
+       <a href="https://twitter.com/davidqpyle" target="_blank">
+         <img src="https://github.com/davidqpyle/freeCodeCamp/blob/master/twitter.png?raw=true" alt="Twitter">
+       </a>
+       <a href="mailto:dqpyle@gmil.com?Subject=Contact%20Email" target="_top">
+         <img src="https://github.com/davidqpyle/freeCodeCamp/blob/master/email-logo.png?raw=true" alt="email">
+       </a>
+       <a href="https://codepen.io/davidqpyle" target="_blank">
+         <img src="https://github.com/davidqpyle/freeCodeCamp/blob/master/codepen.png?raw=true" alt="CodePen">
+       </a>
+       <a href="https://github.com/davidqpyle" target="_blank">
+         <img src="https://github.com/davidqpyle/freeCodeCamp/blob/master/github-logo.png?raw=true" alt="GitHub">
+       </a>
+<p>Written and Hand Coded by David Q Pyle &copy;2018</p>
+       </div>
+     </div>
+   </div>
+</div>
+</body>
+
+
+
+Tribute Page: https://codepen.io/davidqpyle/full/OzrNjX
+<figcaption class="figure-caption">Lemmy Tribute Page for FCC</figcaption>
+#f4b27f
+
