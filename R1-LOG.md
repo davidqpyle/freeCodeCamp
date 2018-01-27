@@ -117,3 +117,11 @@ Rachel Andrews: https://thecssworkshop.com/
 
 **Link to work**: Project File: https://github.com/davidqpyle/freeCodeCamp/blob/master/Portfolio-Project.html
 Tweet link: https://twitter.com/davidqpyle/status/956702447195566080
+
+### Day 14: January 26. Friday
+
+**Today's Progress**: Tweaked my Portfolio Project a little bit. Started the 'Basic JavaScript' portion of the 'Front End Development Certification' course and got through about 25 units. 
+
+**Thoughts**: Python and JavaScript were the top two most sought skills going into 2018. I bet CSS Grid is up there too as it becomes more adopted across all browsers and devices. Looking forward to starting my Coursera course on Python!
+
+**Link to work**: Tweet link: https://twitter.com/davidqpyle/status/957084911751630849
