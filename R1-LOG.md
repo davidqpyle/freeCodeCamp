@@ -125,3 +125,12 @@ Tweet link: https://twitter.com/davidqpyle/status/956702447195566080
 **Thoughts**: Python and JavaScript were the top two most sought skills going into 2018. I bet CSS Grid is up there too as it becomes more adopted across all browsers and devices. Looking forward to starting my Coursera course on Python!
 
 **Link to work**: Tweet link: https://twitter.com/davidqpyle/status/957084911751630849
+
+### Day 15: January 27. Saturday
+
+**Today's Progress**: Upgrading my WordPress sites to PHP v7...which is a pain because of the mySQL to mySQLi injection. I may choose to forward two of the URL's as they are no longer needed/active. Pick my battles on which to update/upgrade. Thinking of buying davidqpyle.io as my 'tech' portfolio page. Continued 'Basic JavaScript' portion of the 'Front End Development Certification' course and got through another 15 units.
+
+**Thought**: Loving all the support and reading articles/blogs from other 100DaysOfCode challengers. Really does give you hope that all this learing from various parts of the internet will add up to something bigger one day lol
+
+**Link to work**: Tweet link: https://twitter.com/davidqpyle/status/957418931236622336
+
