@@ -134,3 +134,10 @@ Tweet link: https://twitter.com/davidqpyle/status/956702447195566080
 
 **Link to work**: Tweet link: https://twitter.com/davidqpyle/status/957418931236622336
 
+### Day 16: January 28. Sunday
+
+**Today's Progress**: Finished upgrading my WordPress sites to a supported PHP version...pulled the trigger and now any and all sites are officially on v7. Not much else besides reading and absorbing. 
+
+**Thought**: 
+
+**Link to work**: Tweet link: https://twitter.com/davidqpyle/status/957808597894881280
