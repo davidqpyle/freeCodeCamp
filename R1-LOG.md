@@ -141,3 +141,11 @@ Tweet link: https://twitter.com/davidqpyle/status/956702447195566080
 **Thought**: 
 
 **Link to work**: Tweet link: https://twitter.com/davidqpyle/status/957808597894881280
+
+### Day 17: January 29. Monday
+
+**Today's Progress**: Continued 'Basic JavaScript' portion of the 'Front End Development Certification' course and got through 8 units... Arrays Functions Parameters Arguments were confusing at first (well, arrays, sub-arrays and multi-dimensional arrays).
+
+**Thoughts**: Even though you may not want to sit down and code, you'll find that you are quickly absorbed into what you are learning or accomplishing that you forget you never wanted to sit down in the first place.
+
+**Link to work**: Tweet link: https://twitter.com/davidqpyle/status/958165445152051200
