@@ -149,3 +149,11 @@ Tweet link: https://twitter.com/davidqpyle/status/956702447195566080
 **Thoughts**: Even though you may not want to sit down and code, you'll find that you are quickly absorbed into what you are learning or accomplishing that you forget you never wanted to sit down in the first place.
 
 **Link to work**: Tweet link: https://twitter.com/davidqpyle/status/958165445152051200
+
+### Day 18: January 30. Tuesday
+
+**Today's Prgress**: IF you can call it progress, I went through another 3 units today covering Global and Local Scopes. Doesn't make much sense...or at least how the lesson was drawn up and laid out in the code screen. Registered a couple of domains davidqpyle .net and .me. I updated the .me site with my Portfolio Project, overhauled the footer icons in GIMP, and re-wrote my About Me section. Added my Musical Portfolio page to the 'Portfolio' section.
+
+**Thoughts**: I have to get my head around these Scopes.
+
+**Link to work**: Tweet link: https://twitter.com/davidqpyle/status/958529528753807360
