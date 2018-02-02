@@ -157,3 +157,23 @@ Tweet link: https://twitter.com/davidqpyle/status/956702447195566080
 **Thoughts**: I have to get my head around these Scopes.
 
 **Link to work**: Tweet link: https://twitter.com/davidqpyle/status/958529528753807360
+
+### Day 19: January 31. Wednesday
+
+**Today's Progress**: Only finished 2 units today as I need to back up and take another look at JavaScript fundamentals.
+
+**Thoughts**: 
+
+**Link to work**: Tweet link: https://twitter.com/davidqpyle/status/958917067989712897
+
+### Day 20: February 1. Thursday
+
+**Today's Progress**: Spent 2.5 hours watching multiple YouTube tutorials on JavaScript. I still want to spend another day or two going over additional tutorials before going back to the freeCodeCamp Development course. I want to fully understand.
+
+**Thoughts**: Sometimes you cannot just start running because you decided to run. Sometimes, you have to warm up and sometimes you may have a bum ankle. But put in the work and time and soon enough you'll be running far ahead.
+
+**Link to work**: YouTube vids I watched:
+https://youtu.be/vEROU2XtPR8
+https://youtu.be/zPHerhks2Vg
+https://youtu.be/10ujZygJzMQ
+Tweet link: https://twitter.com/davidqpyle/status/959267634532573184
