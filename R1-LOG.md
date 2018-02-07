@@ -186,3 +186,13 @@ Tweet link: https://twitter.com/davidqpyle/status/959267634532573184
 
 **Link to work**: https://www.youtube.com/playlist?list=PL46F0A159EC02DF82
 Twitter link: https://twitter.com/davidqpyle/status/959615465839620102
+
+### Day 22: February 3. Saturday
+
+**Today's Progress**: Started off the day with JavaScript documentation and W3School. Learning more and more about Arrays Methods Objects Elements and installed Atom Editor on my notebook.
+
+**Thoughts**: Chip away, chip away.
+
+**Link to work**: https://www.w3schools.com/js/js_arrays.asp
+Tweet link: https://twitter.com/davidqpyle/status/959938689592971265
+
