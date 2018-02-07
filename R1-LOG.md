@@ -204,3 +204,16 @@ Tweet link: https://twitter.com/davidqpyle/status/959938689592971265
 
 **Link to work**: Tweet link: https://twitter.com/davidqpyle/status/960273302458683392
 
+### OFF Day: February 5. Monday
+
+**Thoughts**: Missed today's #100DaysOfCode due to being under the weather (SuperBowl), but like the rules state, I got right back on it! 
+
+**Link**: https://twitter.com/davidqpyle/status/961030709820514305
+
+### Day 24: February 6. Tuesday
+
+**Today's Progress**: Got through another 23 units on the 'Front End Development' Certification course. The hours of tutorials I watched and read over the last week on Javascript seemed to have really paid off! Updated GitHub daily log since the last entry was Feb 1.
+
+**Thoughts**: I was overthinking the 'Stand In Line' challenge and essentially had the correct answer dozens of times over and over, but the wording of the challenge appears to be incorrect as well. The forum had many people saying the same thing about this challenge.
+
+**Link to work**: Tweet link: https://twitter.com/davidqpyle/status/961030710969753602
