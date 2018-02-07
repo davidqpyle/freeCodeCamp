@@ -196,3 +196,11 @@ Twitter link: https://twitter.com/davidqpyle/status/959615465839620102
 **Link to work**: https://www.w3schools.com/js/js_arrays.asp
 Tweet link: https://twitter.com/davidqpyle/status/959938689592971265
 
+### Day 23: February 4. SuperBowl Sunday
+
+**Today's Progress**: Not much. Spent most of the time today still going over MDN and W3School documentation and examples.
+
+**Thoughts**: I don't want to see the Patriots or the Eagles win a SuperBowl today!
+
+**Link to work**: Tweet link: https://twitter.com/davidqpyle/status/960273302458683392
+
