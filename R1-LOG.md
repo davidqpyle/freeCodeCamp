@@ -177,3 +177,12 @@ https://youtu.be/vEROU2XtPR8
 https://youtu.be/zPHerhks2Vg
 https://youtu.be/10ujZygJzMQ
 Tweet link: https://twitter.com/davidqpyle/status/959267634532573184
+
+### Day 21: February 2. Friday
+
+**Today's Progress**: Watched entire playlist of JavaScript Tutorials from @bucky_roberts on YouTube. Best parts were episodes 25 through 30 on Objects and the "this" item. 40 videos in all. Some outdted information was included such as 'new Array' instead of just omitting the 'new' altogether. There were a few others that I cannot recall atm.
+
+**Thoughts**: Getting a little better grasp on JavaScript
+
+**Link to work**: https://www.youtube.com/playlist?list=PL46F0A159EC02DF82
+Twitter link: https://twitter.com/davidqpyle/status/959615465839620102
