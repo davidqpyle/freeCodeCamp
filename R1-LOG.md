@@ -217,3 +217,35 @@ Tweet link: https://twitter.com/davidqpyle/status/959938689592971265
 **Thoughts**: I was overthinking the 'Stand In Line' challenge and essentially had the correct answer dozens of times over and over, but the wording of the challenge appears to be incorrect as well. The forum had many people saying the same thing about this challenge.
 
 **Link to work**: Tweet link: https://twitter.com/davidqpyle/status/961030710969753602
+
+### Day 25: February 7. Wednesday
+
+**Today's Progress**: Got through another couple units on the 'Front End Dev' Certification course. Worked more on my portfolio site and that led me digging deeper into background images opacity and rgba CSS documentation and examples. Applied new background to site.
+
+**Thoughts**: I should go back and review HTML and go further into CSS Grid
+
+**Link to work**: Tweet link: https://twitter.com/davidqpyle/status/961461934666276864
+
+### Day 26: February 8. Thursday
+
+**Today's Progress**: Studied more JavaScript, mainly about passing data to functions and also increments and decrements. Trying to learn enough to work out Card Counting challenge on the Front End Dev course. Played around with the CSS on my portfolio site and learned more about ‘radius’. Changed all my body divs to radius (rounded edges)
+
+**Thoughts**: Need more training on JavaScript. I actually need training and a project to build so I can see real world examples on how it works in life.
+
+**Link to work**: http://www.davidqpyle.me/ Tweet link: https://twitter.com/davidqpyle/status/961811965487104000
+
+### Day 27: February 9. Friday
+
+**Today's Progress**: I started a @udemy JavaScript Essential Mini-Course 2018 and watched a handful of videos. Pretty good free primer on the essentials I have learned so far. 
+
+**Thoughts**: Every tutor or video teaches in such dramatically different ways. Maybe that is what I need to strive for....finding that one instructor that teaches me with a connection. That is a new goal, to find tht instructor!
+
+**Link to work**: https://www.udemy.com/javascript-essentials-mini-course/ Tweet link: https://twitter.com/davidqpyle/status/962333182078148610
+
+### Day 28: February 10. Saturday
+
+**Today's Progress**: Almost finished the udemy JavaScript Essentials 2018 mini-course. Updated daily log for the past few days. Found another course to tak, but this time with a hands on project.
+
+**Thoughts**: Sometimes I feel like I cannot learn all the things I am going to need to know to become a fully functional developer. Just so much information and knowledge to gain...and remember!
+
+**Link to work**: Tweet link: https://twitter.com/davidqpyle/status/962515228029308928
