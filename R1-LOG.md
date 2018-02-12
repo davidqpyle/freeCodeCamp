@@ -1,6 +1,14 @@
 
 ## Log of Round 1 of #100DaysOfCode - done in 2018
 
+### Day 29: February 11. Sunday
+
+**Today's Progress**: Finished the JavaScript Essentials 2018 Mini Course on Udemy and signed up for two other free courses. One being a Full Stack Web Developer Course and the other a free Ultimate HTML Developer Course. Got through another few challenges on the freeCodeCamp Front End Development Certification course.
+
+**Thoughts**: I realized I have been writing this daily log backwards. I should be updating at the top. I'll re-arrange one of these days but today was the day to start, lol.
+
+**Links to work**: 
+
 ### Day 1: January 13. Saturday
 Committed publicly that I am starting #100DaysOfCode:
 I'm publicly committing to the 100DaysOfCode Challenge starting today! Learn More and Join me! http://100DaysOfCode.com  #100DaysOfCode Today I went through Lessons 13-37 on the #freeCodeCamp front end certification challenge
