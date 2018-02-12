@@ -7,9 +7,10 @@
 
 **Thoughts**: I realized I have been writing this daily log backwards. I should be updating at the top. I'll re-arrange one of these days but today was the day to start, lol.
 
-**Links to work**: (https://twitter.com/davidqpyle/status/962886685158670336)[Tweet link]
-[HTML Course] (https://arkmont.com/the-ultimate-html-developer-course/)
-[Full Stack Course] (https://www.udemy.com/thecompletewebdeveloper/learn/v4/overview)
+**Links to work**: 
+[Tweet link](https://twitter.com/davidqpyle/status/962886685158670336)
+[HTML Course](https://arkmont.com/the-ultimate-html-developer-course/)
+[Full Stack Course](https://www.udemy.com/thecompletewebdeveloper/learn/v4/overview)
 
 ### Day 1: January 13. Saturday
 Committed publicly that I am starting #100DaysOfCode:
