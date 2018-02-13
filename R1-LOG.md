@@ -22,7 +22,9 @@
 [Tweet link](https://twitter.com/davidqpyle/status/962886685158670336)
 [HTML Course](https://arkmont.com/the-ultimate-html-developer-course/)
 [Full Stack Course](https://www.udemy.com/thecompletewebdeveloper/learn/v4/overview)
+
 -------------------------------------------------------------------------------------------------------------------------
+
 ### Day 1: January 13. Saturday
 Committed publicly that I am starting #100DaysOfCode:
 I'm publicly committing to the 100DaysOfCode Challenge starting today! Learn More and Join me! http://100DaysOfCode.com  #100DaysOfCode Today I went through Lessons 13-37 on the #freeCodeCamp front end certification challenge
