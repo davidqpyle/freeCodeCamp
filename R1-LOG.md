@@ -1,6 +1,17 @@
 
 ## Log of Round 1 of #100DaysOfCode - done in 2018
 
+### Day 30: February 12. Monday
+
+**Today's Progress**: Started the CSS Grid course by Wes Bos. Checked out some podcasts on the freeCodeCamp site. Some were okay, different views on coding and learning.
+
+**Thoughts**: I really enjoy hopping back and forth between different subjects - i.e. HTML, CSS and JavaScript. Hopefully it won't lead to confusion the deeper I get, but so far so good. They seem to work well together and also just stripped down on their own.
+
+**Links to work**: 
+[CSS Grid Course](https://cssgrid.io/)
+[Tweet link](https://twitter.com/davidqpyle/status/963245199886602240)
+
+
 ### Day 29: February 11. Sunday
 
 **Today's Progress**: Finished the JavaScript Essentials 2018 Mini Course on Udemy and signed up for two other free courses. One being a Full Stack Web Developer Course and the other a free Ultimate HTML Developer Course. Got through another few challenges on the freeCodeCamp Front End Development Certification course.
