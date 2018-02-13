@@ -1,5 +1,5 @@
 
-## Log of Round 1 of #100DaysOfCode - done in 2018
+## Log of Round 1 of #100DaysOfCode - 2018
 
 ### Day 30: February 12. Monday
 
