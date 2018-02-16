@@ -1,6 +1,14 @@
 
 ## Log of Round 1 of #100DaysOfCode - 2018
 
+### Day 31: February 13. Tuesday
+
+**Today's Progress**: Went through additional parts in the Wes Bos CSS Grid Masters course. 
+
+**Thoughts**: Really loving CSS Grid and I seem to keep coming back to it. I used to be so frustrated by floats and z-index and negative margins, absolutes..., so may other layout issues with CSS. I actually find CSS Grid layout FUN!
+
+**Links to work**: [CSS Grid Course](https://cssgrid.io/) [Tweet link](https://twitter.com/davidqpyle/status/963643891714002944)
+
 ### Day 30: February 12. Monday
 
 **Today's Progress**: Started the CSS Grid course by Wes Bos. Checked out some podcasts on the freeCodeCamp site. Some were okay, different views on coding and learning.
