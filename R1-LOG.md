@@ -1,6 +1,22 @@
 
 ## Log of Round 1 of #100DaysOfCode - 2018
 
+### Day 33: February 15. Thursday
+
+**Today's Progress**: Completed the Wes Bos CSS Grid Masters Course. This was a really good course and the teaching was excellent. I applied many tips to my portfolio site and now my nav flows properly. I was just using hard column numbers instead of incorporating 'span' into the length of nav item.   
+
+**Thoughts**: Going to tackle the Arkmont course: "The Ultimate HTML Developer - Learn proper HTML from scratch." Feels good to resolidify the basics after being away from coding for so long.
+
+**Links to work**: [CSS Grid Course](https://cssgrid.io/) [Tweet link](https://twitter.com/davidqpyle/status/964356202619584512)
+
+### Day 32: February 14. Wednesday
+
+**Today's Progress**: Went thru additional parts in the Wes Bos CSS Grid Masters course and applied some of the techniques he showed to my own site to play around with concepts. Looking to finish this tutorial Thursday.  
+
+**Thoughts**: Wes Bos makes programming look like just conversation when watching his videos. It is like he has this "fluent programming" language that has a really nice accent!
+
+**Links to work**: [CSS Grid Course](https://cssgrid.io/) [Tweet link](https://twitter.com/davidqpyle/status/964179187920752641)
+
 ### Day 31: February 13. Tuesday
 
 **Today's Progress**: Went through additional parts in the Wes Bos CSS Grid Masters course. 
