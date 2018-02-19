@@ -1,6 +1,30 @@
 
 ## Log of Round 1 of #100DaysOfCode - 2018
 
+### Day 36: February 18. Sunday
+
+**Tody's Progress**: Almost thru Module 2: 'The Ultimate HTML Developer' course by Kalob Taulien but went down the rabbit hole on Forms & how they work with CSS Grid layout. Worked on forms for 2 hrs+. I applied a bunch of different scenarios to my Portfolio page, but have not found the right one. I think tomorrow I'll sit down and come up with my own code.
+
+**Thoughts**: I can't wait to put myself out there to see what I can come up with and where I can help. I think I want to reach out to charity or social work orgs that may need any type of help with front end dev or marketing, etc...
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/965411278410993665)
+
+### Day 35: February 17. Saturday
+
+**Today's Progress**: Halfway thru Module 2: 'The Ultimate HTML Developer' course by Kalob Taulien, hoping to finish that off tomorrow. Listened to my first Learn To Code With Me podcast E1S1, very good interview and discussion!
+
+**Thoughts**: The poscast had a lot of interesting similarities with me. I basically trained myself html and CSS and got into eCommerce sites and Payment, Shipping and marketing areas...then felt like I didn't deserve or live up to being considered a 'programmer' or 'coder' so I moved back into familiar grounds like customer service and sales. There is no cert or badge you get which states "YOU ARE NOW A PROGRAMMER"...so build, code, test, try, put yourself out there and see what comes of it!!!
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/965061828761055232)
+
+### Day 34: February 16. Friday
+
+**Today's Progress**: Finished Module 1: 'The Ultimate HTML Developer' course by Kalob Taulien Nice to go over current standards & uses after a long coding layoff.
+
+**Thoughts**: You never know what you may miss when you've taken a course on a particular subject before. Plus, as you mature you can understand thisngs completely from a different viewpoint.
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/964646433658953728)
+
 ### Day 33: February 15. Thursday
 
 **Today's Progress**: Completed the Wes Bos CSS Grid Masters Course. This was a really good course and the teaching was excellent. I applied many tips to my portfolio site and now my nav flows properly. I was just using hard column numbers instead of incorporating 'span' into the length of nav item.   
