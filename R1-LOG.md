@@ -1,6 +1,30 @@
 
 ## Log of Round 1 of #100DaysOfCode - 2018
 
+### Day 39: February 21. Wednesday
+
+**Today's Progress**: Well, today I got a lot settled! I realized I needed to separate my form area in a new div. Created the CSS and html for that. 3 column form with all labels/inputs centered. Found an easy to use HTML to email php code I could use on the form. I created Thank you and Error pages for the php form functions to work properly. Test and everything is working as intended! The only concern now is media size on Chrome browser. I am getting overflow pushing the form into everything. I tested on Firefox and everything seems to minimize properly. I need to look into further.
+
+**Thought**: I was really doubting whether or not I had the umph to continue down this road, but every time I ever seem to have any doubts, I get a kick in the pants and seem to pick up steam. I must have spent 4 hours or more cosing today. Really applying things I have learned and finding my own way to code and complete the tasks. Feels good! I do need to get httpS for my site.
+
+**Tweets to work**: [Tweet link](https://twitter.com/davidqpyle/status/966482919958155264) [Quackit PHP Form](https://www.quackit.com/html/codes/html_form_to_email.cfm) [Portfolio](http://davidqpyle.me/)
+
+### Day 38: February 20. Tuesday
+
+**Today's Progress**: I worked and worked at trying to get forms down and in place on my footer last night. This is where all the other contact info to social liks is, so I wanted to work it into that area. Frustrating. I worked with forms and CSS and tried so many variations to see what would break and how it would be affected by changing this or that. I was even looking at other people's CSS Grid forms and considered using them. Shame.
+
+**Thoughts**: I'll have to try again fresh tomorrow and see if I can find a way to make forms and grid work properly with how I have my site currently laid out.
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/966132963359510531) [Quackit](https://www.quackit.com/html/html_editors/scratchpad/?example=/css/grid/examples/forms_explicitly_placed_example_1)
+
+### Day 37: February 19. Monday
+
+**Today's Progress**: Completed: 'The Ultimate HTML Developer' course by Kalob Taulien passed with flying colors, but never received any certificate? Maybe it is sent via email? I left a comment on the discussion area on ArkMont. 
+
+**Thoughts**: Not sure where to go next. I was thinking back to freeCodeCamp Dev Certification course, but I feel like I need some more hands on work and practice. Then I would like more practice on JavaScript.
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/965770848073338881)
+
 ### Day 36: February 18. Sunday
 
 **Tody's Progress**: Almost thru Module 2: 'The Ultimate HTML Developer' course by Kalob Taulien but went down the rabbit hole on Forms & how they work with CSS Grid layout. Worked on forms for 2 hrs+. I applied a bunch of different scenarios to my Portfolio page, but have not found the right one. I think tomorrow I'll sit down and come up with my own code.
