@@ -1,6 +1,15 @@
 
 ## Log of Round 1 of #100DaysOfCode - 2018
 
+### Day 43: February 26. Monday
+
+**Today's Progress**: I continued with the JavaScript from Scratch course and learned about operators and if/else statements. I got my console up and working in my Atom IDE so I don't have to keep switching between browser and editor.
+
+
+**Thoughts**: I'm not sure if Ill ever take coding into a job situation or career, but I am having fun learning these languages. Today marks the start of Week Seven in this awesome coding challenge!
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/968315957184794626)
+
 ### Day 42: February 25. Sunday
 
 **Today's Progress**: Today I started and completed Project 1 from the JavaScript Course. This was a project where you needed to end up making a URL friendly address using strings and methods. I worked on it in the console and Atom until it worked. Then I watched the solution on how Kalob would have done it. He added a step I didn't add and I added additional steps he hadn't added, but in the end they were both correct. It feels really good when you work it out on your own!
