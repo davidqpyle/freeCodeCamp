@@ -1,6 +1,18 @@
 
 ## Log of Round 1 of #100DaysOfCode - 2018
 
+### Day 40: February 23. Friday
+
+**Today's Progress**: I feel like I really need to learn more JavaScript before I go back to the Front End Developers Certificate on freeCodeCamp. So, I started Kalob Tauliens fullblown JS course for free since he provided a free link after I finished the 'mini-course'. The Complete Course: 2018 JavaScript Essentials From Scratch is what it is called.
+
+**Thoughts**: Not much in-depth today. I do like it when I find the zone and end up coding or learning for hours. 
+
+**Links to work**: [Udemy Course](https://t.co/C7xZFqxw2S), [Tweet link](https://twitter.com/davidqpyle/status/967189634697564160)
+
+### DAY OFF: February 22. Thursday
+
+**PERSONAL DAY**
+
 ### Day 39: February 21. Wednesday
 
 **Today's Progress**: Well, today I got a lot settled! I realized I needed to separate my form area in a new div. Created the CSS and html for that. 3 column form with all labels/inputs centered. Found an easy to use HTML to email php code I could use on the form. I created Thank you and Error pages for the php form functions to work properly. Test and everything is working as intended! The only concern now is media size on Chrome browser. I am getting overflow pushing the form into everything. I tested on Firefox and everything seems to minimize properly. I need to look into further.
