@@ -1,6 +1,14 @@
 
 ## Log of Round 1 of #100DaysOfCode - 2018
 
+### Day 42: February 25. Sunday
+
+**Today's Progress**: Today I started and completed Project 1 from the JavaScript Course. This was a project where you needed to end up making a URL friendly address using strings and methods. I worked on it in the console and Atom until it worked. Then I watched the solution on how Kalob would have done it. He added a step I didn't add and I added additional steps he hadn't added, but in the end they were both correct. It feels really good when you work it out on your own!
+
+**Thoughts**: Many times your cose or project will not end up being an exact replica of the person teaching or your colleague. It will have your own take, but you can always learn from how they approached it and apply it to your knowledge base.
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/967933793716854784)
+
 ### Day 41: February 24. Saturday
 
 **Today's Progress**: I continued the JavaScript from Scratch course. Played around in the console for a long time to see how things work. Tomorrow I start on Project 1 of 3 for this course
