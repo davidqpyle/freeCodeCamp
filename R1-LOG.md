@@ -1,6 +1,14 @@
 
 ## Log of Round 1 of #100DaysOfCode - 2018
 
+### Day 41: February 24. Saturday
+
+**Today's Progress**: I continued the JavaScript from Scratch course. Played around in the console for a long time to see how things work. Tomorrow I start on Project 1 of 3 for this course
+
+**Thoughts**: Just spending a little bit of time coding is really helpful and re-connects the things that I have been learning.
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/967598150482526210)
+
 ### Day 40: February 23. Friday
 
 **Today's Progress**: I feel like I really need to learn more JavaScript before I go back to the Front End Developers Certificate on freeCodeCamp. So, I started Kalob Tauliens fullblown JS course for free since he provided a free link after I finished the 'mini-course'. The Complete Course: 2018 JavaScript Essentials From Scratch is what it is called.
