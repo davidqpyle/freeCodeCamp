@@ -1,6 +1,14 @@
 
 ## Log of Round 1 of #100DaysOfCode - 2018
 
+### Day 44: February 28. Wednesday
+
+**Today's Progress**:
+
+### OFF DAY: February 27. Tuesday
+
+**Reason**: Jammed Day with work and then out the dor for rehearsal after a quick bite for dinner. Home late at midnight.
+
 ### Day 43: February 26. Monday
 
 **Today's Progress**: I continued with the JavaScript from Scratch course and learned about operators and if/else statements. I got my console up and working in my Atom IDE so I don't have to keep switching between browser and editor.
