@@ -3,7 +3,11 @@
 
 ### Day 44: February 28. Wednesday
 
-**Today's Progress**:
+**Today's Progress**: Spent today showing how Chris can use Wix for our band website. Not much coding going on there, but still a lot of elements to consider and navigating through questions and solutions.
+
+**Thoughts**: I have heard that coding jobs inolve so much more than just coding. Today wa a good example, I believe, of the different things you have to juggle and understand to be a well rounded front-end developer.
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/969034234190065664)
 
 ### OFF DAY: February 27. Tuesday
 
