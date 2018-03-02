@@ -1,6 +1,14 @@
 
 ## Log of Round 1 of #100DaysOfCode - 2018
 
+### Day 45: March 1. Thursday
+
+**Today's Progress**: Today I went through additional The Complete Course: 2018 JavaScript Essentials From Scratch lessons, mainly about Query Selectors. I created my own sample page and js as well. I also read a great article today about CSS artwork. It got me really really excited to delve into that after these other courses are completed. Looks like fun!
+
+**Thoughts**: Don't give up. That is the mantra I hear over and over again from people learning and those that support new coders or coders in general. So, I am not giving up!
+
+**Links to work**: [Tweet link[(https://twitter.com/davidqpyle/status/969389038229770241)
+
 ### Day 44: February 28. Wednesday
 
 **Today's Progress**: Spent today showing how Chris can use Wix for our band website. Not much coding going on there, but still a lot of elements to consider and navigating through questions and solutions.
