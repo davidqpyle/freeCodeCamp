@@ -1,6 +1,14 @@
 
 ## Log of Round 1 of #100DaysOfCode - 2018
 
+### Day 47: March 3. Saturday
+
+**Today's Progress**: Today I completed the Solo Learn HTML course and received my certificte! I even started the CSS course and should be done with that soon. I went through the Project #2 - Calculator solution for the JavaScript from Scratch course on Udemy.
+
+**Thoughts**: I really think I need to edit and customize already established and written JavaScript code to better understand it. It is how I learned HTML and CSS. Customizing pieces of code that fit to what I needed it to do. Maybe that is the answer to understand JavaScript. I am taking a break as we are going on vacation to Disney World.
+
+**Links to work**: [Solo Learn Certificate](https://www.sololearn.com/Certificate/1014-8482521/pdf/), [Tweet link](https://twitter.com/davidqpyle/status/970117725715619840)
+
 ### Day 46: March 2. Friday
 
 **Today's Progress**: Today I went through additional The Complete Course: 2018 JavaScript Essentials From Scratch lessons, mainly focused on Functions and Events. I will be starting the Calculator project (#2) tomorrow. I signed up for Solo Learn and started the HTML course. Going through these pretty quickly.
