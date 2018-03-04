@@ -1,6 +1,14 @@
 
 ## Log of Round 1 of #100DaysOfCode - 2018
 
+### Day 46: March 2. Friday
+
+**Today's Progress**: Today I went through additional The Complete Course: 2018 JavaScript Essentials From Scratch lessons, mainly focused on Functions and Events. I will be starting the Calculator project (#2) tomorrow. I signed up for Solo Learn and started the HTML course. Going through these pretty quickly.
+
+**Thoughts**: I think I get JavaScript and then in the same breath I don't think I'll ever understand JavaScript.
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/969728719018446850)
+
 ### Day 45: March 1. Thursday
 
 **Today's Progress**: Today I went through additional The Complete Course: 2018 JavaScript Essentials From Scratch lessons, mainly about Query Selectors. I created my own sample page and js as well. I also read a great article today about CSS artwork. It got me really really excited to delve into that after these other courses are completed. Looks like fun!
