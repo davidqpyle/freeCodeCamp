@@ -1,6 +1,14 @@
 
 ## Log of Round 1 of #100DaysOfCode - 2018
 
+### Day 49: March 14. Wednesday
+
+**Today's Progress**: Spent today going through additional lessons on the CSS course on Solo Learn. I am about half way through this course.
+
+**Thoughts**: None today, just pushing through...
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/974099011044040704)
+
 ### Day 48: March 13. Tuesday
 
 **Today's Progress**: Back from vacation and back to it! Spent today getting back up to speed and in the groove by going through additional lessons on the CSS course on Solo Learn.
