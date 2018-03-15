@@ -1,6 +1,16 @@
 
 ## Log of Round 1 of #100DaysOfCode - 2018
 
+### Day 48: March 13. Tuesday
+
+**Today's Progress**: Back from vacation and back to it! Spent today getting back up to speed and in the groove by going through additional lessons on the CSS course on Solo Learn.
+
+**Thoughts**: Even though I am learning all of this, I am wondering how I will apply it and retain it if I am not working in the field day in and day out...
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/973667095862005760)
+
+### March 4th through March 12th. OFF due to being on vacation.
+
 ### Day 47: March 3. Saturday
 
 **Today's Progress**: Today I completed the Solo Learn HTML course and received my certificte! I even started the CSS course and should be done with that soon. I went through the Project #2 - Calculator solution for the JavaScript from Scratch course on Udemy.
