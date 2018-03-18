@@ -1,6 +1,14 @@
 
 ## Log of Round 1 of #100DaysOfCode - 2018
 
+### Day 50: March 15. Thursday
+
+**Today's Progress**: 50% of the way through this #100Days challenge. I completed the CSS course on Solo Learn today and earned my certificate! I've moved on to the first few Modules in the JavaScript course
+
+**Thoughts**: Feels good to get back into it and get another course completed and under my belt.
+
+**Liks to work**: [Tweet link](https://twitter.com/davidqpyle/status/974470909493997568) ![CSS Certificate](https://www.sololearn.com/Certificate/1023-8482521/pdf/)
+
 ### Day 49: March 14. Wednesday
 
 **Today's Progress**: Spent today going through additional lessons on the CSS course on Solo Learn. I am about half way through this course.
