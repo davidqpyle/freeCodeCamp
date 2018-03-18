@@ -50,7 +50,7 @@
 
 **Thoughts**: Don't give up. That is the mantra I hear over and over again from people learning and those that support new coders or coders in general. So, I am not giving up!
 
-**Links to work**: [Tweet link[(https://twitter.com/davidqpyle/status/969389038229770241)
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/969389038229770241)
 
 ### Day 44: February 28. Wednesday
 
