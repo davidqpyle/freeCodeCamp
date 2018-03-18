@@ -1,6 +1,15 @@
 
 ## Log of Round 1 of #100DaysOfCode - 2018
 
+### Day 51: March 16. Friday
+
+**Today's Progress**: Completed the JavaScript Tutorial course on Solo Learn and received my certificate. Great JS course and would highly recommend taking it for fundamentals. It showed me things no other course touched on and taught the other fundamentals in a different approach. I am going to finish the other open JS courses I was working on (the Udemy JavaSctipt from Scratch course), but may start the php course on Solo Learn as well.
+
+**Thoughts**: I guess all of these different courses are working because little by little I am starting to learn JavaScript and feel like I 'can' learn it.
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/974835150776340480)
+![JavaScript Certificate](https://pbs.twimg.com/media/DYdOgBpXcAIcFp2.jpg)
+
 ### Day 50: March 15. Thursday
 
 **Today's Progress**: 50% of the way through this #100Days challenge. I completed the CSS course on Solo Learn today and earned my certificate! I've moved on to the first few Modules in the JavaScript course
