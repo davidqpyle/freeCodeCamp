@@ -7,7 +7,7 @@
 
 **Thoughts**: Feels good to get back into it and get another course completed and under my belt.
 
-**Liks to work**: [Tweet link](https://twitter.com/davidqpyle/status/974470909493997568) ![CSS Certificate](https://www.sololearn.com/Certificate/1023-8482521/pdf/)
+**Liks to work**: [Tweet link](https://twitter.com/davidqpyle/status/974470909493997568) ![CSS Certificate](https://www.sololearn.com/Certificate/1023-8482521/png/)
 
 ### Day 49: March 14. Wednesday
 
