@@ -34,6 +34,7 @@
 **Thoughts**: I really think I need to edit and customize already established and written JavaScript code to better understand it. It is how I learned HTML and CSS. Customizing pieces of code that fit to what I needed it to do. Maybe that is the answer to understand JavaScript. I am taking a break as we are going on vacation to Disney World.
 
 **Links to work**: [Solo Learn Certificate](https://www.sololearn.com/Certificate/1014-8482521/pdf/), [Tweet link](https://twitter.com/davidqpyle/status/970117725715619840)
+![HTML Certificate](https://pbs.twimg.com/media/DXYUx1nVMAAI-Gh.jpg)
 
 ### Day 46: March 2. Friday
 
