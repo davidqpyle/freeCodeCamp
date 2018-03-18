@@ -1,6 +1,14 @@
 
 ## Log of Round 1 of #100DaysOfCode - 2018
 
+### Day 52: March 17. Saturday
+
+**Today's Progress**:  I went through modules 27 through 30 on the Udemy JavaScript from Scratch course by Kalob Taulien, which provided a lot of insight on Anonymous Functions, 'this' and Hoisting. I wrote two practice 'Anonymous Functions', but was not able to run one of them. The 'Name' anon function wouldn't work properly, but my number anon function worked as expected. They appear to be corect with the same data flow...
+
+**Thoughts**: I'd really like some projects to work on with these tools so I can keep applying what I have learned so fr. Maybe I can look at the JavaScript30 challenge by Wes Bos.
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/975125499985956864)
+
 ### Day 51: March 16. Friday
 
 **Today's Progress**: Completed the JavaScript Tutorial course on Solo Learn and received my certificate. Great JS course and would highly recommend taking it for fundamentals. It showed me things no other course touched on and taught the other fundamentals in a different approach. I am going to finish the other open JS courses I was working on (the Udemy JavaSctipt from Scratch course), but may start the php course on Solo Learn as well.
