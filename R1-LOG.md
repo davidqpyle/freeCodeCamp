@@ -1,6 +1,14 @@
 ![header](https://github.com/davidqpyle/freeCodeCamp/blob/master/header.png?raw=true)
 ## Log of Round 1 of #100DaysOfCode "Learning Round" - 2018
 
+### Day 56: March 21. Wednesday
+
+**Today's Progress**: Reviewed the Two Part Solution for Project #3 on Udemy JavaScript course. Also listened to lesson on Imposter Syndrome, which is always an interesting topic. I finally spent some time to update the GitHub daily log! Also came across some awesome 'How-To's" on the W3 site, link below.
+
+**Thoughts**: It's SPRING!! 
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/976657729283674112), [W3 How-To's](https://www.w3schools.com/howto/default.asp)
+
 ### Day 55: March 20. Tuesday
 
 **Today's Progress**: Project #3: #Modals from Udemy JavaScript Essentials from Scratch has been completed!  I also tweaked my portfolio site some more by adding my certificates. Created a new #id for the images. I also added the Modal project to CodePen and re-organized my pens.
