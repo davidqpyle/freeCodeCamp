@@ -1,6 +1,15 @@
 ![header](https://github.com/davidqpyle/freeCodeCamp/blob/master/header.png?raw=true)
 ## Log of Round 1 of #100DaysOfCode "Learning Round" - 2018
 
+### Day 55: March 20. Tuesday
+
+**Today's Progress**: Project #3: #Modals from Udemy JavaScript Essentials from Scratch has been completed!  I also tweaked my portfolio site some more by adding my certificates. Created a new #id for the images. I also added the Modal project to CodePen and re-organized my pens.
+
+**Thoughts**: This was a very effective way to see how the big three work together HTML CSS JS (thanks to the w3 Modal examples). I need to start doing projects like this and add to my CodePen page!
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/976288753819013120) [Modal](https://codepen.io/davidqpyle/full/JLWrEY/)
+![modal](https://pbs.twimg.com/media/DYx4ScDUMAE2MVY.jpg)
+
 ### Day 54: March 19. Monday
 
 **Today's Progress**: I tweaked my portfolio site and completed another couple modules on the Udemy JavaScript Essentials from Scratch course focusing on Try, Catch, Throw and Finally as well as Scopes. I'm now at Project #3: Modals
