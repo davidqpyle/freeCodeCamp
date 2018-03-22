@@ -1,5 +1,13 @@
 ![header](https://github.com/davidqpyle/freeCodeCamp/blob/master/header.png?raw=true)
-## Log of Round 1 of #100DaysOfCode - 2018
+## Log of Round 1 of #100DaysOfCode "Learning Round" - 2018
+
+### Day 53: March 18. Sunday
+
+**Today's Progress**: I updated my GitHub daily log and spruced it up. Created and added a header and learned how to display images in my log. I listene to a couple freCodeCamp podcasts
+
+**Thoughts**: Chill day...
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/975535206416314368)
 
 ### Day 52: March 17. Saturday
 
