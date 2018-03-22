@@ -1,4 +1,4 @@
-![header](https://github.com/davidqpyle/freeCodeCamp/blob/master/header.png?raw=true)
+![header](https://github.com/davidqpyle/freeCodeCamp/blob/master/header.png?raw=true:center)
 ## Log of Round 1 of #100DaysOfCode "Learning Round" - 2018
 
 ### Day 56: March 21. Wednesday
