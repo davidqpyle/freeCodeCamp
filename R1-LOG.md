@@ -1,6 +1,14 @@
 ![header](https://github.com/davidqpyle/freeCodeCamp/blob/master/header.png?raw=true)
 ## Log of Round 1 of #100DaysOfCode "Learning Round" - 2018
 
+### Day 54: March 19. Monday
+
+**Today's Progress**: I tweaked my portfolio site and completed another couple modules on the Udemy JavaScript Essentials from Scratch course focusing on Try, Catch, Throw and Finally as well as Scopes. I'm now at Project #3: Modals
+
+**Thoughts**: Are tese Try Catch Throw error logs really used? I have seen no other course talk about these topics. I'm sure they are used, but wide-spread?
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/975898663670120449)
+
 ### Day 53: March 18. Sunday
 
 **Today's Progress**: I updated my GitHub daily log and spruced it up. Created and added a header and learned how to display images in my log. I listene to a couple freCodeCamp podcasts
