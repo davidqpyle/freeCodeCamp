@@ -1,6 +1,15 @@
 ![header](https://github.com/davidqpyle/freeCodeCamp/blob/master/header.png?raw=true:center)
 ## Log of Round 1 of #100DaysOfCode "Learning Round" - 2018
 
+### Day 58: March 23. Friday
+
+**Today's Progress**: I went through 10 units on the freeCodeCamp Front End Dev certification course. Watched a couple videos on JavaScript and re-created some JS how-to's from the W3 School in my CodePen account. 
+
+**Thoughts**: Sooooo much yet to learn...
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/977336826749833216) [CodePen Examples](https://codepen.io/davidqpyle/pen/LdjvOQ)
+![JS examples pic](https://pbs.twimg.com/media/DZAygc-X4AEBSac.jpg)
+
 ### Day 57: March 22. Thursday
 
 **Today's Progress**: Went through additional lessons on Udemy JavaScript from Scratch course then I found myself playing around in all these how-to's on W3 School site and feel like I should re-build each one!Seriously, pretty awesome tutorials for Front End Development. 
