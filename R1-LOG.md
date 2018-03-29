@@ -1,6 +1,14 @@
 ![header](https://github.com/davidqpyle/freeCodeCamp/blob/master/header.png?raw=true:center)
 ## Log of Round 1 of #100DaysOfCode "Learning Round" - 2018
 
+### Day 59: March 24. Saturday 
+
+**Today's Progress**: Today I worked on the Objects assignment from Udemy JavaScript from Scratch course by Kalob Taulien and I watched JS videos on ProfileLookUps for a better understanding on freeCodeCamp certification course. Created a new JS Examples from courses I take pen on CodePen
+
+**Thoughts**: I feel like some of the freeCodeCamp tutorials teach you like how to get four when you add 2+2, but then they give you a challenge for that tutorial that is like 'What is 2+2 then divided by 1, multiplied by 6, then subtract 2. I'm thinking "WTF???". This doesn't help me learn enough to get through a challenge!
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/977742113256427525) [CodePen link](https://codepen.io/davidqpyle/pen/LdjvOQ)
+
 ### Day 58: March 23. Friday
 
 **Today's Progress**: I went through 10 units on the freeCodeCamp Front End Dev certification course. Watched a couple videos on JavaScript and re-created some JS how-to's from the W3 School in my CodePen account. 
