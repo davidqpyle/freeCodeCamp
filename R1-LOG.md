@@ -1,6 +1,14 @@
 ![header](https://github.com/davidqpyle/freeCodeCamp/blob/master/header.png?raw=true:center)
 ## Log of Round 1 of #100DaysOfCode "Learning Round" - 2018
 
+### Day 61: March 26. Monday
+
+**Today's Progress**: Today I worked on 'While Loops'  and 'Do While Loops' on the Udemy JavaScript from Scratch course. #DoesNotIncrement #WillRunForever #Crash #RunAtLeastOnce
+
+**Thoughts**: Will this ever stick? Will I ever 'get' JavaScript?
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/978680586624741377)
+
 ### Day 60: March 25. Sunday
 
 **Today's Progress**: Today I worked on 'For Loops' on the Udemy JavaScript from Scratch course. #For #Break #Continue
