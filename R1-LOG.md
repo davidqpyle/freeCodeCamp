@@ -1,6 +1,14 @@
 ![header](https://github.com/davidqpyle/freeCodeCamp/blob/master/header.png?raw=true:center)
 ## Log of Round 1 of #100DaysOfCode "Learning Round" - 2018
 
+### Day 60: March 25. Sunday
+
+**Today's Progress**: Today I worked on 'For Loops' on the Udemy JavaScript from Scratch course. #For #Break #Continue
+
+**Thoughts**: F!@#
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/978060289760411648)
+
 ### Day 59: March 24. Saturday 
 
 **Today's Progress**: Today I worked on the Objects assignment from Udemy JavaScript from Scratch course by Kalob Taulien and I watched JS videos on ProfileLookUps for a better understanding on freeCodeCamp certification course. Created a new JS Examples from courses I take pen on CodePen
