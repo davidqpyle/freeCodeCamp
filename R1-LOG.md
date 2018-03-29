@@ -1,6 +1,14 @@
 ![header](https://github.com/davidqpyle/freeCodeCamp/blob/master/header.png?raw=true:center)
 ## Log of Round 1 of #100DaysOfCode "Learning Round" - 2018
 
+### Day 62: March 27. Tuesday
+
+**Today's Progress**: Today I worked on 'Classes' and 'SubClasses' on the Udemy JavaScript from Scratch course. #containment #constructor #methods #properties #inherit #extends
+
+**Thoughts**: I am almost finished with this JavaScript from Scratch course. Not too sure if I understand enough...was this course actually any good???
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/978849793303830534)
+
 ### Day 61: March 26. Monday
 
 **Today's Progress**: Today I worked on 'While Loops'  and 'Do While Loops' on the Udemy JavaScript from Scratch course. #DoesNotIncrement #WillRunForever #Crash #RunAtLeastOnce
