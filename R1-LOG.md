@@ -1,6 +1,14 @@
 ![header](https://github.com/davidqpyle/freeCodeCamp/blob/master/header.png?raw=true:center)
 ## Log of Round 1 of #100DaysOfCode "Learning Round" - 2018
 
+### Day 57: March 22. Thursday
+
+**Today's Progress**: Went through additional lessons on Udemy JavaScript from Scratch course then I found myself playing around in all these how-to's on W3 School site and feel like I should re-build each one!Seriously, pretty awesome tutorials for Front End Development. 
+
+**Thoughts**: I think I'll make a CodePen for JavaScript examples
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/977006245755408385) [W3Schools JS](w3schools.com/howto)
+
 ### Day 56: March 21. Wednesday
 
 **Today's Progress**: Reviewed the Two Part Solution for Project #3 on Udemy JavaScript course. Also listened to lesson on Imposter Syndrome, which is always an interesting topic. I finally spent some time to update the GitHub daily log! Also came across some awesome 'How-To's" on the W3 site, link below.
