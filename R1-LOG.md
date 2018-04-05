@@ -9,7 +9,7 @@
 
 **Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/981717514752286720)
 ![JS4Kids](https://pbs.twimg.com/media/DZ_Cv3hWAAAcbvU.jpg)
-![movie code snippet](https//www.davidqpyle.me/images/github/movie-age-requirement.png)
+![movie code snippet](http://www.davidqpyle.me/images/github/movie-age-requirement.png)
 
 ### Day 68: April 3. Tuesday
 
@@ -18,7 +18,7 @@
 **Thoughts**: I feel like this book is really explaining things in JS where I am really starting to grasp it!
 
 **Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/981344743291604992)
-![sentence code snippet](http://davidqpyle.me/images/github/capitalize-lowercase-sentence.png)
+![sentence code snippet](http://www.davidqpyle.me/images/github/capitalize-lowercase-sentence.png)
 
 ## Day 67: April 2. Monday
 
