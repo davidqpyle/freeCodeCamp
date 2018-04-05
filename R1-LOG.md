@@ -8,7 +8,8 @@
 **Thoughts**: I am loving this book! It really has explained things that I was not understanding. Kid level!
 
 **Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/981717514752286720)
-![JS4Kids](https://pbs.twimg.com/media/DZ_Cv3hWAAAcbvU.jpg)
+
+[![JS4Kids](https://pbs.twimg.com/media/DZ_Cv3hWAAAcbvU.jpg)
 ![movie code snippet](http://www.davidqpyle.me/images/github/movie-age-requirement.png)
 
 ### Day 68: April 3. Tuesday
