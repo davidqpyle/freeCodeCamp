@@ -1,6 +1,14 @@
 ![header](https://github.com/davidqpyle/freeCodeCamp/blob/master/header.png?raw=true:center)
 ## Log of Round 1 of #100DaysOfCode "Learning Round" - 2018
 
+## Day 67: April 2. Monday
+
+**Today's Progress**: Today I continued to read JavaScript For Kids (which is pretty damn good!) and played around with CSS for the YvM site.
+
+**Thoughts**: This book is really clear and laid out very well. It appears to be just what I needed for JS
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/980977129956528128)
+
 ### Day 66: April 1. Sunday
 
 **Today's Progress**: Today I continued work on the YvM site and delved into JavaScript For Kids.
