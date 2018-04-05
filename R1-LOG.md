@@ -1,6 +1,18 @@
 ![header](https://github.com/davidqpyle/freeCodeCamp/blob/master/header.png?raw=true:center)
 ## Log of Round 1 of #100DaysOfCode "Learning Round" - 2018
 
+### Day 64: March 29. Thursday
+
+**Today's Progress**: Today I worked on 'Super' on the Udemy JavaScript from Scratch course. Hoping to finish this course tomorrow. I also spent a chunk of time updating my Github Daily Log & I checked out JavaScript For Kids eBook from the local library.
+
+**Thoughts**: Back at it after a missed day due to lack of sleep the night before. Just couldn't find the time or energy!
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/979546330849824774)
+
+### March 28. Wednesday - OFF DAY
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/979361252169404418)
+
 ### Day 62: March 27. Tuesday
 
 **Today's Progress**: Today I worked on 'Classes' and 'SubClasses' on the Udemy JavaScript from Scratch course. #containment #constructor #methods #properties #inherit #extends
