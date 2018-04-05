@@ -1,6 +1,14 @@
 ![header](https://github.com/davidqpyle/freeCodeCamp/blob/master/header.png?raw=true:center)
 ## Log of Round 1 of #100DaysOfCode "Learning Round" - 2018
 
+### Day 66: April 1. Sunday
+
+**Today's Progress**: Today I continued work on the YvM site and delved into JavaScript For Kids.
+
+**Thoughts**: Not sure if we should build the whole site by hand when we have the Wix templates and structure already there. Maybe we don't need all the things we were looking to apply to the site re-design? Oh, HAPPY EASTER!
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/980640997943271424)
+
 ### Day 65: March 31. Saturday
 
 **Today's Progress**: Today I worked on a site, developing the basic structure and then laying it out with CSS grid. 
