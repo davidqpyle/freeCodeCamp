@@ -1,6 +1,14 @@
 ![header](https://github.com/davidqpyle/freeCodeCamp/blob/master/header.png?raw=true:center)
 ## Log of Round 1 of #100DaysOfCode "Learning Round" - 2018
 
+### Day 65: March 31. Saturday
+
+**Today's Progress**: Today I worked on a site, developing the basic structure and then laying it out with CSS grid. 
+
+**Thoughts**: Trying my hand at creating the site we want for the band by hand-coding it instead of using the Wix editor.
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/980231320994566145) - [CodePen WIP Site](https://codepen.io/davidqpyle/pen/rddRKY/)
+
 ### Day 64: March 30. Friday
 
 **Today's Progress**: Today I completed the Udemy 2018 #JavaScript Essentials from Scratch course by Kalob Taulien! I feel great completing this course, but I do wish there were more real world examples.
