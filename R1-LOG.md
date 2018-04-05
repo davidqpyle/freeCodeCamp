@@ -1,6 +1,16 @@
 ![header](https://github.com/davidqpyle/freeCodeCamp/blob/master/header.png?raw=true:center)
 ## Log of Round 1 of #100DaysOfCode "Learning Round" - 2018
 
+### Day 69: April 4. Wednesday
+
+**Today's Progress**: Today I continued to read JavaScript For Kids and worked through code from the book. I worked through comparisons and operators. I Was tasked with creating a statement where someone could check if someones age was old enough to get in the movie and if not, are they accompanied by an adult?
+
+**Thoughts**: I am loving this book! It really has explained things that I was not understanding. Kid level!
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/981717514752286720)
+![JS4Kids](https://pbs.twimg.com/media/DZ_Cv3hWAAAcbvU.jpg)
+![movie code snippet](https//www.davidqpyle.me/images/github/movie-age-requirement.png)
+
 ### Day 68: April 3. Tuesday
 
 **Today's Progress**: Annnd you guessed it ---> Today I continued to read JavaScript For Kids and worked through code from the book. I want to work on JavaScript every day, until it feels natural. I worked through a statement where I needed to take a string with various capital and lowercase letters and make the sentence start with a capital and the rest in lowercase. I ended up figuring out how to do it myself, and even two different methods! I also have 'Eloquent Javascript' waiting to be picked up Mississauga library tomorrow.
@@ -8,6 +18,7 @@
 **Thoughts**: I feel like this book is really explaining things in JS where I am really starting to grasp it!
 
 **Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/981344743291604992)
+![sentence code snippet](http://davidqpyle.me/images/github/capitalize-lowercase-sentence.png)
 
 ## Day 67: April 2. Monday
 
