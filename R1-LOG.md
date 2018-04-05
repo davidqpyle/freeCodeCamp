@@ -1,7 +1,16 @@
 ![header](https://github.com/davidqpyle/freeCodeCamp/blob/master/header.png?raw=true:center)
 ## Log of Round 1 of #100DaysOfCode "Learning Round" - 2018
 
-### Day 64: March 29. Thursday
+### Day 64: March 30. Friday
+
+**Today's Progress**: Today I completed the Udemy 2018 #JavaScript Essentials from Scratch course by Kalob Taulien! I feel great completing this course, but I do wish there were more real world examples.
+
+**Thoughts**: I really hope JavaScript starts making more sense! I have completed a couple of JS courses on the fundamentals, but still feel like it is a foreign language to me.
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/979874423045058560)
+![JS Certificate for Udemy course](https://pbs.twimg.com/media/DZk2Pl-X4AAsnZn.jpg)
+
+### Day 63: March 29. Thursday
 
 **Today's Progress**: Today I worked on 'Super' on the Udemy JavaScript from Scratch course. Hoping to finish this course tomorrow. I also spent a chunk of time updating my Github Daily Log & I checked out JavaScript For Kids eBook from the local library.
 
