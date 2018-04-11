@@ -1,6 +1,16 @@
 ![header](https://github.com/davidqpyle/freeCodeCamp/blob/master/header.png?raw=true:center)
 ## Log of Round 1 of #100DaysOfCode "Learning Round" - 2018
 
+### Day 73: April 8. Sunday
+
+**Today's Progress**: Today I went back through all my notes and reviewed what I've learned since starting this challenge. I took my 8 Ball 'game' I learned yesterday to create a function of my own, using a button on a webpage to call the function with an alert!
+
+**Thoughts**: So very happy that things are starting to 'slow' down for me when I look at code. Super proud of taking this challenge and pushing it further.
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/983132674155057152)
+
+![function code](https://pbs.twimg.com/media/DaTJUexXcAA4OIw.jpg)
+
 ### Day 72: April 7. Saturday
 
 **Today's Progress**: 🔸Went through the push and pop methods in arrays, also called a #STACK. 🔸Learned Math.random and Math.floor to create a decision makers 8 Ball and Insult Generators! 
