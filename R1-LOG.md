@@ -1,6 +1,16 @@
 ![header](https://github.com/davidqpyle/freeCodeCamp/blob/master/header.png?raw=true:center)
 ## Log of Round 1 of #100DaysOfCode "Learning Round" - 2018
 
+### Day 75: April 10. Tuesday
+
+**Today's Progress**: In the 4th Quarter of this challenge! Today I continued JavaScript For Kids: HTML overview & Conditions If...Else. 
+
+**Thoughts**: I find myself playing w/ more code in the console & trying out additional code to see if I can make it more complex and usually do! Wow! Feels mighty good...
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/983875959333031937)
+
+![if-else code](http://davidqpyle.me/images/github/ifelse-code.png)
+
 ### Day 74: April 9. Monday
 
 **Today's Progress**: Today I continued with JavaScript For Kids: Objects Key-Value-Pair DotNotation. 
