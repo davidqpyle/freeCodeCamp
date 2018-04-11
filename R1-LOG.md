@@ -1,6 +1,20 @@
 ![header](https://github.com/davidqpyle/freeCodeCamp/blob/master/header.png?raw=true:center)
 ## Log of Round 1 of #100DaysOfCode "Learning Round" - 2018
 
+### Day 70: April 5. Thursday
+
+**Today's Progress**:
+🔸Continued to read JavaScript For Kids and worked through code from the book, mainly related to Arrays.
+🔸Updated my GitHub daily log to cover the last 7 days
+🔸Installed Visual Studio Code IDE program
+🔸Picked up 'Eloquent JavaScript' (it's the second edition 🙄) from Mississauga Public Library.
+
+**Thoughts**: Feels good to keep pushing through this challenge and continually try to understand and learn JavaScript
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/982066833955094528) 
+![eloquentJS](https://pbs.twimg.com/media/DaD-2CaXUAE34mX.jpg)
+![VScode](https://pbs.twimg.com/media/DaD-2CZXUAA6a2-.jpg)
+
 ### Day 69: April 4. Wednesday
 
 **Today's Progress**: Today I continued to read JavaScript For Kids and worked through code from the book. I worked through comparisons and operators. I Was tasked with creating a statement where someone could check if someones age was old enough to get in the movie and if not, are they accompanied by an adult?
