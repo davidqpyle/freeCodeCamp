@@ -1,6 +1,14 @@
 ![header](https://github.com/davidqpyle/freeCodeCamp/blob/master/header.png?raw=true:center)
 ## Log of Round 1 of #100DaysOfCode "Learning Round" - 2018
 
+### Day 74: April 9. Monday
+
+**Today's Progress**: Today I continued with JavaScript For Kids: Objects Key-Value-Pair DotNotation. 
+
+**Thoughts**: I've gone though these steps in other tutorials, but now things finally feel like they are clicking, at least compared to earlier days in this challenge! 
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/983525034605076480)
+
 ### Day 73: April 8. Sunday
 
 **Today's Progress**: Today I went back through all my notes and reviewed what I've learned since starting this challenge. I took my 8 Ball 'game' I learned yesterday to create a function of my own, using a button on a webpage to call the function with an alert!
