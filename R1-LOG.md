@@ -1,6 +1,16 @@
 ![header](https://github.com/davidqpyle/freeCodeCamp/blob/master/header.png?raw=true:center)
 ## Log of Round 1 of #100DaysOfCode "Learning Round" - 2018
 
+### Day 72: April 7. Saturday
+
+**Today's Progress**: 🔸Went through the push and pop methods in arrays, also called a #STACK. 🔸Learned Math.random and Math.floor to create a decision makers 8 Ball and Insult Generators! 
+
+**Thoughts**: I started formatting my 100DaysofCode tweets differently, but not sure if it is more pleasant or just busier looking. I may go back to regular tweets. I know, BIG decisions lol.
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/982810035653881856)
+
+![insult generator code](https://pbs.twimg.com/media/DaOkUrjW0AAMiQ8.jpg)
+
 ### Day 71: April 6. Friday
 
 **Today's Progress**: 
