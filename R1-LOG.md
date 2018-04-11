@@ -1,6 +1,19 @@
 ![header](https://github.com/davidqpyle/freeCodeCamp/blob/master/header.png?raw=true:center)
 ## Log of Round 1 of #100DaysOfCode "Learning Round" - 2018
 
+### Day 71: April 6. Friday
+
+**Today's Progress**: 
+🔸Updated the multiple sites I manage with SSL's & updated all the links! So many non-https links, mainly images w/hard-coded links.
+🔸I also worked on our bands site (I know, it's a Wix account site but they do so many other features for us!)
+🔸No formal learning or courses to speak of today
+
+**Thoughts**: While I was working on the band website using the Wix editor, I still found tools I have recently picked up which could be applied to design and concepts.
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/982463319876472832)
+
+![You vs Me site](https://pbs.twimg.com/media/DaJoSOdUQAIyfCz.jpg)
+
 ### Day 70: April 5. Thursday
 
 **Today's Progress**:
@@ -11,7 +24,8 @@
 
 **Thoughts**: Feels good to keep pushing through this challenge and continually try to understand and learn JavaScript
 
-**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/982066833955094528) 
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/982066833955094528)
+
 ![eloquentJS](https://pbs.twimg.com/media/DaD-2CaXUAE34mX.jpg)
 ![VScode](https://pbs.twimg.com/media/DaD-2CZXUAA6a2-.jpg)
 
