@@ -1,6 +1,14 @@
 ![header](https://github.com/davidqpyle/freeCodeCamp/blob/master/header.png?raw=true:center)
 ## Log of Round 1 of #100DaysOfCode "Learning Round" - 2018
 
+### Day 80: April 16. Monday
+
+**Today's Progress**: Today I stretched the JavaScript For Kids challenge of #H4CK3RSP34K to a much further point. I created html, css, and js files to make a web page where you can interact with the converter! 
+
+**Thoughts**: I feel great taking all the lessons I have learned and putting them together to make this webpage! I did have to google some of the code for refreshing the screen and how to have the output displayed into a new textarea, but any code I googled, I still had to work it out to customize it to my code!
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/986010702056972288) - [CodePen link](https://codepen.io/davidqpyle/pen/geVNde)
+
 ### Day 79: April 15. Sunday
 
 **Today's Progress**: Today I finished the last challenge at the end of Chapter 6 JavaScript For Kids on For and While loops: #H4CK3RSP34K. I started on Chapter 7: Creating a Hangman Game. Looks like a great hands on project like the other challenges have been!
