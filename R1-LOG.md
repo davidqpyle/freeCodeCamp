@@ -1,6 +1,18 @@
 ![header](https://github.com/davidqpyle/freeCodeCamp/blob/master/header.png?raw=true:center)
 ## Log of Round 1 of #100DaysOfCode "Learning Round" - 2018
 
+### Day 79: April 15. Sunday
+
+**Today's Progress**: Today I finished the last challenge at the end of Chapter 6 JavaScript For Kids on For and While loops: #H4CK3RSP34K. I started on Chapter 7: Creating a Hangman Game. Looks like a great hands on project like the other challenges have been!
+
+**Thoughts**: So very rewarding completing this Hacker Speak challenge! To see it work and get the desired results felt like magic!
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/985646369380630529)
+
+![challenge#3](http://davidqpyle.me/images/github/JS4K-Ch6-hackerspeak.png)
+
+### April 14. Saturday - OFF DAY
+
 ### Day 78: April 13. Friday
 
 **Today's Progress**: Today I worked on the three challenges at the end of Chapter 6 JavaScript For Kids on For and While loops. Completed two of the three, but still working on #H4CK3RSP34K
