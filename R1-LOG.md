@@ -9,7 +9,7 @@
 
 **Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/985331637222244352)
 
-[challenge#1](http://davidqpyle.me/images/github/JS4K-CH6-Challenges.png) [challenge#2](http://davidqpyle.me/images/github/JS4K-CH6-RSG-Challenge.png)
+![challenge#1](http://davidqpyle.me/images/github/JS4K-CH6-Challenges.png) ![challenge#2](http://davidqpyle.me/images/github/JS4K-CH6-RSG-Challenge.png)
 
 ### Day 77: April 12. Thursday
 
