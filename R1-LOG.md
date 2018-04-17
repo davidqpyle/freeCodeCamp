@@ -1,6 +1,16 @@
 ![header](https://github.com/davidqpyle/freeCodeCamp/blob/master/header.png?raw=true:center)
 ## Log of Round 1 of #100DaysOfCode "Learning Round" - 2018
 
+### Day 78: April 13. Friday
+
+**Today's Progress**: Today I worked on the three challenges at the end of Chapter 6 JavaScript For Kids on For and While loops. Completed two of the three, but still working on #H4CK3RSP34K
+
+**Thoughts**: Things are starting to click with JavaScript like they have never before. Maybe I am taking a big step?
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/985331637222244352)
+
+[challenge#1](http://davidqpyle.me/images/github/JS4K-CH6-Challenges.png) [challenge#2](http://davidqpyle.me/images/github/JS4K-CH6-RSG-Challenge.png)
+
 ### Day 77: April 12. Thursday
 
 **Today's Progress**: Today I learned about website/app prototyping & some of the tools available such as AdobeXD. Ended up watching some vids on this topic. I also played around w/ a challenge in freeCodeCamp to see if I can solve it yet. Nope, not yet...I will, oh I will
