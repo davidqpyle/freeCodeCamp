@@ -1,6 +1,14 @@
 ![header](https://github.com/davidqpyle/freeCodeCamp/blob/master/header.png?raw=true:center)
 ## Log of Round 1 of #100DaysOfCode "Learning Round" - 2018
 
+### Day 77: April 12. Thursday
+
+**Today's Progress**: Today I learned about website/app prototyping & some of the tools available such as AdobeXD. Ended up watching some vids on this topic. I also played around w/ a challenge in freeCodeCamp to see if I can solve it yet. Nope, not yet...I will, oh I will
+
+**Thoughts**: I'd really like to get more of the FCC challenges completed so I can move on to my Front End certificate, but it looks like I have more crawling to do before I can run through that gamlet.
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/984622267924647936)
+
 ### Day 76: April 11. Wednesday
 
 **Today's Progress**: Today I continued JavaScript For Kids: Conditionals and Loops  such as - For, While, ++ Rehash. I also updated my Github Daily Log and installed Firefox Nightly build browser for web development and testing.
