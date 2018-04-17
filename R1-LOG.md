@@ -1,6 +1,14 @@
 ![header](https://github.com/davidqpyle/freeCodeCamp/blob/master/header.png?raw=true:center)
 ## Log of Round 1 of #100DaysOfCode "Learning Round" - 2018
 
+### Day 76: April 11. Wednesday
+
+**Today's Progress**: Today I continued JavaScript For Kids: Conditionals and Loops  such as - For, While, ++ Rehash. I also updated my Github Daily Log and installed Firefox Nightly build browser for web development and testing.
+
+**Thoughts**: I have really enjoyed re-learning the same concepts and topics using this book. It really seems to drill down and use better examples than the other courses I have taken.
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/984227106065436672)
+
 ### Day 75: April 10. Tuesday
 
 **Today's Progress**: In the 4th Quarter of this challenge! Today I continued JavaScript For Kids: HTML overview & Conditions If...Else. 
