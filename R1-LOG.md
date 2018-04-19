@@ -1,6 +1,14 @@
 ![header](https://github.com/davidqpyle/freeCodeCamp/blob/master/header.png?raw=true:center)
 ## Log of Round 1 of #100DaysOfCode "Learning Round" - 2018
 
+### Day 81: April 17. Tuesday
+
+**Today's Progress**: Today I went over the last few days progress & updated this daily log. I started reading Eloquent JavaScript version 2. This book has amazing exercises! I cannot wait to finish JavaScript For Kids so I can start it!! Watched MaddeyTv - Day in the Life Of (developer at Pinterest).
+
+**Thoughts**: Watching that video made me realize how that community in Silicon Valley really has it made and is really in a bubble all its own.
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/986417992274759680) - [MaddyTV link](https://youtu.be/cynVxO6BNpQ)
+
 ### Day 80: April 16. Monday
 
 **Today's Progress**: Today I stretched the JavaScript For Kids challenge of #H4CK3RSP34K to a much further point. I created html, css, and js files to make a web page where you can interact with the converter! 
