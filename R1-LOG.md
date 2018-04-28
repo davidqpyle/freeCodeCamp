@@ -1,6 +1,14 @@
 ![header](https://github.com/davidqpyle/freeCodeCamp/blob/master/header.png?raw=true:center)
 ## Log of Round 1 of #100DaysOfCode "Learning Round" - 2018
 
+### Day 85: April 21. Saturday
+
+**Today's Progress**: I watched multiple videos on GitHub tutorials and learned how to use Visual Studio Code to stage/commit/publish directly within the IDE! So simple!! 
+
+**Thoughts**: Added another tool. Git knowledge within VS Code, lol.
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/987913353212383232) - [YouTube Tutorial](https://youtu.be/9cMWR-EGFuY)
+
 ### Day 84: April 20. Friday
 
 **Today's Progress**: I finally got 'ftp-kr' to work with Visual Studio Code IDE! For some reason I was not able to get this plugin working, but now it is working exactly as described. I know it's not exactly coding, but it is a big help in my day to day coding...so I am counting it! I can now edit all hosted sites directly from VS Code...HUGE! It reminds me of DreamWeaver application, but better...much better.
