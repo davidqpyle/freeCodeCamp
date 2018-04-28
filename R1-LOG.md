@@ -7,7 +7,7 @@
 
 **Thoughts**: Gonna step away from focusing on functions. It felt pretty good to play around with code just to see what I could do to a web page with HTML/CSS/JS.
 
-**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/989676443922763776) - [iFrame JS](https://stackoverflow.com/a/17642783/9375243) - [W3Schools JavaScript Output](https://www.w3schools.com/js/js_output.asp) - [W3Schools innerHTML](https://www.w3schools.com/jsref/prop_html_innerhtml.asp) - [Styling and object](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Other_embedding_technologies) - [Font Awesome icon](https://fontawesome.com/icons?d=gallery&q=ok) - Find and Replace WP Plugin](https://wordpress.org/plugins/real-time-find-and-replace/)
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/989676443922763776) - [iFrame JS](https://stackoverflow.com/a/17642783/9375243) - [W3Schools JavaScript Output](https://www.w3schools.com/js/js_output.asp) - [W3Schools innerHTML](https://www.w3schools.com/jsref/prop_html_innerhtml.asp) - [Styling and object](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Other_embedding_technologies) - [Font Awesome icon](https://fontawesome.com/icons?d=gallery&q=ok) - [Find and Replace WP Plugin](https://wordpress.org/plugins/real-time-find-and-replace/)
 
 ![iFrame Code](https://pbs.twimg.com/media/DbwHwcGXUAAv5hf.jpg)
 
