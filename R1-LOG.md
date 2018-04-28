@@ -1,6 +1,14 @@
 ![header](https://github.com/davidqpyle/freeCodeCamp/blob/master/header.png?raw=true:center)
 ## Log of Round 1 of #100DaysOfCode "Learning Round" - 2018
 
+### Day 90: April 27. Friday
+
+**Today's Progress**: I learned more about the JavaScript Document Object Model(DOM) from the JavaScript  ForKids Chapter 9, Part 2 'Advanced JavaScript' section. Learned about insertng (mutating) text in HTML elements and jQuery -> Creating new elements, animating elements, chaining animations. Used the SlideUp-SlideDown, FadeIn-FadeOut, Show-Hide, animations and the properties for each, such as duration. I also used the 'append' jQuery method to add new elements to a web page.
+
+**Thoughts**: It's funny that today's chapter covered the exact same topic I was researching yesterday on my own! Wow, 10 Days LEFT of this challenge!! This challenge has DEFINITELY pushed me to learn a lot about programming and coding. 
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/990047031115862018) - [W3Schools jQuery Effects](https://www.w3schools.com/jquery/jquery_ref_effects.asp) - [W3Schools jQuery Append](https://www.w3schools.com/jquery/html_append.asp)
+
 ### Day 89: April 26. Thursday
 
 **Today's Progress**: I learned more about JavaScript Output, mainly 'document.write' and 'document.getElementById()' with the innerHTML method. This led me trying to embed an external webpage into another page (iframe-like) using JavaScript. I just used the Mozilla MDN Dev pages to learn more about these topics to see what I could apply on my own. I also updated my WordPress template on my company site and required me to update outdated Font Awesome icons. I had to replace hundreds, so I cfound a Find and Replace plugin to make the job much faster!
