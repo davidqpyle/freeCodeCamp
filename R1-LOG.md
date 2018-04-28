@@ -1,6 +1,14 @@
 ![header](https://github.com/davidqpyle/freeCodeCamp/blob/master/header.png?raw=true:center)
 ## Log of Round 1 of #100DaysOfCode "Learning Round" - 2018
 
+### Day 88: April 25. Wednesday
+
+**Today's Progress**: I spent many hours going over functions, looking thru Stack Overflow for examples/discussions. Went back to JavaScript For Kids challenges. I worked out a couple myself such as the Random Insult Generator, Adding/Multiplying two sets of numbers, and Comparing two Arrays to see if they re the same. Discovered the utmost importance of placement with return, as it needs to be within the brackets of the function. Trying  uot the new Grasshopper coding game by Area 120 (Google company).
+
+**Thoughts**: I got a little further in my understanding of functions, but I still could not fully understand the functions required for refactoring the Hangman Game code using functions.
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/989330802138894337)
+
 ### Day 87: April 24. Tuesday
 
 **Today's Progress**:  I tried to finish off JavaScript For Kids Ch8: Functions() with the extra challenges at the end. I could not finish the challenges and left me very frustrated.
