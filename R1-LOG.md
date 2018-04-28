@@ -1,6 +1,19 @@
 ![header](https://github.com/davidqpyle/freeCodeCamp/blob/master/header.png?raw=true:center)
 ## Log of Round 1 of #100DaysOfCode "Learning Round" - 2018
 
+### Day 86: April 23. Monday
+
+**Today's Progress**: Today I started Chapter 8 in JavaScript For Kids book. This chapter covers Functions(). 
+
+**Thoughts**: I took yesterday off to enjoy our first real Spring weather, re-energized! Today an 'Incell' nutjob drove his van down Yonge Street on sidewalks running down pedestrians. 10 killed, 16 injured. Suspect apprehended.
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/988613291705622529)
+
+### April 22. Sunday
+
+**OFF DAY**
+
+
 ### Day 85: April 21. Saturday
 
 **Today's Progress**: I watched multiple videos on GitHub tutorials and learned how to use Visual Studio Code to stage/commit/publish directly within the IDE! So simple!! 
