@@ -1,6 +1,18 @@
 ![header](https://github.com/davidqpyle/freeCodeCamp/blob/master/header.png?raw=true:center)
 ## Log of Round 1 of #100DaysOfCode "Learning Round" - 2018
 
+### Day 89: April 26. Thursday
+
+**Today's Progress**: I learned more about JavaScript Output, mainly 'document.write' and 'document.getElementById()' with the innerHTML method. This led me trying to embed an external webpage into another page (iframe-like) using JavaScript. I just used the Mozilla MDN Dev pages to learn more about these topics to see what I could apply on my own. I also updated my WordPress template on my company site and required me to update outdated Font Awesome icons. I had to replace hundreds, so I cfound a Find and Replace plugin to make the job much faster!
+
+**Thoughts**: Gonna step away from focusing on functions. It felt pretty good to play around with code just to see what I could do to a web page with HTML/CSS/JS.
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/989676443922763776) - [iFrame JS](https://stackoverflow.com/a/17642783/9375243) - [W3Schools JavaScript Output](https://www.w3schools.com/js/js_output.asp) - [W3Schools innerHTML](https://www.w3schools.com/jsref/prop_html_innerhtml.asp) - [Styling and object](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Other_embedding_technologies) - [Font Awesome icon](https://fontawesome.com/icons?d=gallery&q=ok) - Find and Replace WP Plugin](https://wordpress.org/plugins/real-time-find-and-replace/)
+
+![iFrame Code](https://pbs.twimg.com/media/DbwHwcGXUAAv5hf.jpg)
+
+![iFrame Output](https://pbs.twimg.com/media/DbwHx2WWkAAmyI6.jpg)
+
 ### Day 88: April 25. Wednesday
 
 **Today's Progress**: I spent many hours going over functions, looking thru Stack Overflow for examples/discussions. Went back to JavaScript For Kids challenges. I worked out a couple myself such as the Random Insult Generator, Adding/Multiplying two sets of numbers, and Comparing two Arrays to see if they re the same. Discovered the utmost importance of placement with return, as it needs to be within the brackets of the function. Trying  uot the new Grasshopper coding game by Area 120 (Google company).
