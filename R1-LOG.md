@@ -1,6 +1,14 @@
 ![header](https://github.com/davidqpyle/freeCodeCamp/blob/master/header.png?raw=true:center)
 ## Log of Round 1 of #100DaysOfCode "Learning Round" - 2018
 
+### Day 87: April 24. Tuesday
+
+**Today's Progress**:  I tried to finish off JavaScript For Kids Ch8: Functions() with the extra challenges at the end. I could not finish the challenges and left me very frustrated.
+
+**Thoughts**: I just cannot get my head around functions. And functions are such a huge part of programming! I tweeted out my frustration and receive positive feedback and just shows the awesome support the #100DaysOfCode community is on Twitter.
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/988889960735498241)
+
 ### Day 86: April 23. Monday
 
 **Today's Progress**: Today I started Chapter 8 in JavaScript For Kids book. This chapter covers Functions(). 
