@@ -1,6 +1,14 @@
 ![header](https://github.com/davidqpyle/freeCodeCamp/blob/master/header.png?raw=true:center)
 ## Log of Round 1 of #100DaysOfCode "Learning Round" - 2018
 
+### Day 83: April 19. Thursday
+
+**Today's Progress**: Did nothing but explore and absorb as much about JavaScript as possible. That's it, that's all!
+
+**Thoughts**: JAVASCRIPT!
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/987134384410124288)
+
 ### Day 82: April 18. Wednesday
 
 **Today's Progress**: Today I completed the Hangman Game and the additional challenges from JavaScript For Kids book, Chapter 7. I also expanded the game further with additional information and conditions, such as how many guesses you have remaining and if you get to two remaining guesses, it alerts you of this warning.
