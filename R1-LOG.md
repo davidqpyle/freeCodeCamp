@@ -1,6 +1,14 @@
 ![header](https://github.com/davidqpyle/freeCodeCamp/blob/master/header.png?raw=true:center)
 ## Log of Round 1 of #100DaysOfCode "Learning Round" - 2018
 
+### Day 84: April 20. Friday
+
+**Today's Progress**: I finally got 'ftp-kr' to work with Visual Studio Code IDE! For some reason I was not able to get this plugin working, but now it is working exactly as described. I know it's not exactly coding, but it is a big help in my day to day coding...so I am counting it! I can now edit all hosted sites directly from VS Code...HUGE! It reminds me of DreamWeaver application, but better...much better.
+
+**Thoughts**: I should really look at more into what other tools are available for VS Code. I am sure there are other plugins which would improve my workflow.
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/987717669913800707) - [FTP-KR](https://github.com/karikera/ftp-kr/wiki)
+
 ### Day 83: April 19. Thursday
 
 **Today's Progress**: Did nothing but explore and absorb as much about JavaScript as possible. That's it, that's all!
