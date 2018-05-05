@@ -1,13 +1,21 @@
 ![header](https://github.com/davidqpyle/freeCodeCamp/blob/master/header.png?raw=true:center)
 ## Log of Round 1 of #100DaysOfCode "Learning Round" - 2018
 
+### Day 95: May 2. Wednesday
+
+**Today's Progres**: Today I completed one Free Code Camp Front End Developers Certification challenge in "Basic Algorithm Scripting" section. I also learned how to debug in Google Chrome Dev Tools from a Codeburst article
+
+**Thoughts**: I got past another algorithm challenge, but it took some deep research and digging to resolve. Very hard. I didn't even know what factorialing a number meant...lol
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/991882035890356226) - [fCC Challenge](https://www.freecodecamp.org/challenges/factorialize-a-number) - [Codeburst Article](https://codeburst.io/learn-how-to-debug-javascript-with-chrome-devtools-9514c58479db)
+
 ### Day 94: May 1. Tuesday
 
 **Today's Prgress**: Today I again went back to Free Code Camp Front End Developers Certification challenges & wrapped up "Object Oriented and Functional Programming" part of the course. I started "Basic Algorithm Scripting"!! I solved the first challenge pretty quickly...AND it included a function!
 
-**Thoughts**: I was very proud of myself to solve the first one off the bat like that! Lessons, tutorials, reading, research is paying off...and really it should! The ampunt of time and energy spent on learning this can have a snowball effect!
+**Thoughts**: I was very proud of myself to solve the first one off the bat like that! Lessons, tutorials, reading, research is paying off...and really it should! The amount of time and energy spent on learning this can have a snowball effect!
 
-**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/991524226191495169)
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/991524226191495169) - [Challenge](https://www.freecodecamp.org/challenges/reverse-a-string)
 
 ### Day 93: April 30. Monday
 
