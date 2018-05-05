@@ -1,6 +1,14 @@
 ![header](https://github.com/davidqpyle/freeCodeCamp/blob/master/header.png?raw=true:center)
 ## Log of Round 1 of #100DaysOfCode "Learning Round" - 2018
 
+### Day 94: May 1. Tuesday
+
+**Today's Prgress**: Today I again went back to Free Code Camp Front End Developers Certification challenges & wrapped up "Object Oriented and Functional Programming" part of the course. I started "Basic Algorithm Scripting"!! I solved the first challenge pretty quickly...AND it included a function!
+
+**Thoughts**: I was very proud of myself to solve the first one off the bat like that! Lessons, tutorials, reading, research is paying off...and really it should! The ampunt of time and energy spent on learning this can have a snowball effect!
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/991524226191495169)
+
 ### Day 93: April 30. Monday
 
 **Today's Progress**: Today I went back to the Free Code Camp Front End Developers Certification challenges to apply what I've learned so far. I got past the one I've been stuck on for a while and then went through a handful more! 
