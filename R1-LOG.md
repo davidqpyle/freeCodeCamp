@@ -1,6 +1,14 @@
 ![header](https://github.com/davidqpyle/freeCodeCamp/blob/master/header.png?raw=true:center)
 ## Log of Round 1 of #100DaysOfCode "Learning Round" - 2018
 
+### Day 93: April 30. Monday
+
+**Today's Progress**: Today I went back to the Free Code Camp Front End Developers Certification challenges to apply what I've learned so far. I got past the one I've been stuck on for a while and then went through a handful more! 
+
+**Thouhts**: Little by little I am chipping away at the nemesis known as JavaScript! Ha!
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/991144373944451073)
+
 ### Day 92: April 29. Sunday
 
 **Today's Progress**: Today I listened to SyntaxFM podcast learning about 20 JavaScript Array and Object Methods by Wes Bos & Stolinski. Great episode and learned a lot!! I also spent some time playing around with Google Grasshopper app.
