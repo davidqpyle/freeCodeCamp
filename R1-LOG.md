@@ -1,6 +1,14 @@
 ![header](https://github.com/davidqpyle/freeCodeCamp/blob/master/header.png?raw=true:center)
 ## Log of Round 1 of #100DaysOfCode "Learning Round" - 2018
 
+### Day 92: April 29. Sunday
+
+**Today's Progress**: Today I listened to SyntaxFM podcast learning about 20 JavaScript Array and Object Methods by Wes Bos & Stolinski. Great episode and learned a lot!! I also spent some time playing around with Google Grasshopper app.
+
+**Thoughts**: After listening to this episode, it dawned on me that even coders involved in the industry 24/7 still have areas that they need work and knowledge on! It makes you feel re-assured when you see these things...because you think they have it all down and every corner is totally visible to them.
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/990781055656439808) - [SyntaxFM Podcast](https://syntax.fm/show/043/20-javascript-array-and-object-methods-to-make-you-a-better-developer)
+
 ### Day 91: April 28. Saturday
 
 **Today's Progress**: Today I met up with Free Code Camp Mississauga group Mississauga Central Library! Nice to talk to other devs and meet face to face and discuss programming and coding. I also updated my Daily Log on Github to cover the past seven days of the challenge.
