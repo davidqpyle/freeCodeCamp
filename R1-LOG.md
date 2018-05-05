@@ -1,6 +1,14 @@
 ![header](https://github.com/davidqpyle/freeCodeCamp/blob/master/header.png?raw=true:center)
 ## Log of Round 1 of #100DaysOfCode "Learning Round" - 2018
 
+### Day 91: April 28. Saturday
+
+**Today's Progress**: Today I met up with Free Code Camp Mississauga group Mississauga Central Library! Nice to talk to other devs and meet face to face and discuss programming and coding. I also updated my Daily Log on Github to cover the past seven days of the challenge.
+
+**Thoughts**: 9 days left in this challenge!
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/990415673062055936)
+
 ### Day 90: April 27. Friday
 
 **Today's Progress**: I learned more about the JavaScript Document Object Model(DOM) from the JavaScript  ForKids Chapter 9, Part 2 'Advanced JavaScript' section. Learned about insertng (mutating) text in HTML elements and jQuery -> Creating new elements, animating elements, chaining animations. Used the SlideUp-SlideDown, FadeIn-FadeOut, Show-Hide, animations and the properties for each, such as duration. I also used the 'append' jQuery method to add new elements to a web page.
