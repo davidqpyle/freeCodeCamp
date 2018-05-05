@@ -1,6 +1,14 @@
 ![header](https://github.com/davidqpyle/freeCodeCamp/blob/master/header.png?raw=true:center)
 ## Log of Round 1 of #100DaysOfCode "Learning Round" - 2018
 
+### Day 96: May 3. Thursday
+
+**Today's Progress**: Today I took a different approach. I found new JavaScript questions on Stack Overflow and just worked on various ones to see if I culd solve the issue and/or just to learn about that code, which led to research/read! I installed new Visual Studio Code extensions after reading it!
+
+**Thought**: I read a tweet today about a new developer wishing he had spent less time in tutorial world and more time learning real world problems. This is what made me think of going to Stack Overflow and seeing what I could do or learn.
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/992237947427663872) - [VS Code Extensions](https://hackernoon.com/vs-code-extensions-for-happier-javascript-coding-e258f72dd9c1)
+
 ### Day 95: May 2. Wednesday
 
 **Today's Progres**: Today I completed one Free Code Camp Front End Developers Certification challenge in "Basic Algorithm Scripting" section. I also learned how to debug in Google Chrome Dev Tools from a Codeburst article
