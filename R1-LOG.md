@@ -1,6 +1,14 @@
 ![header](https://github.com/davidqpyle/freeCodeCamp/blob/master/header.png?raw=true:center)
 ## Log of Round 1 of #100DaysOfCode "Learning Round" - 2018
 
+### Day 98: May 7. Monday
+
+**Today's Progress**: Today I read up on and played around with CSS Animations on various CodePen accounts. Beautiful images and creations being made with pure code...Also, I am trying my hand at Chapter 9 Challenges in JavaScript For Kids book.
+
+**Thoughts**: It is really awesome to see how they have taken CSS coding and made it into something created by an artist in the traditional sense. It makes me wonder if I'd prefer that style/type of coding versus the rigid JS, PHP, etc languages because of the output of the coding...the creativity. I guess I'll need to give it a try! I also missed the weekend due to the band meeting up for the Protest the Hero show in Toronto on Cinco de Mayo. Great show, great times!
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/993655589820600320) - [CSS Artwork](https://codepen.io/Elwend/) - [More CSS Artwork](https://codepen.io/collection/XpRxEj/)
+
 ### Day 97: May 4. Friday
 
 **Today's Progress**: Today I researched palindromes for my next challenge in freeCodeCamp "Basic Algorithm Scripting" section. I also picked up O'ReillyMedia JavaScript Pocket Reference at Indigo
