@@ -1,6 +1,16 @@
 ![header](https://github.com/davidqpyle/freeCodeCamp/blob/master/header.png?raw=true:center)
 ## Log of Round 1 of #100DaysOfCode "Learning Round" - 2018
 
+### Day 97: May 4. Friday
+
+**Today's Progress**: Today I researched palindromes for my next challenge in freeCodeCamp "Basic Algorithm Scripting" section. I also picked up O'ReillyMedia JavaScript Pocket Reference at Indigo
+
+**Thoughts**: Each one of these challenges in the Basic Algorithm section are going to be a learning task each on their own! Looking forward to it and I hope I can find projects which incorporate these requirements.
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/992594030730076161) - [Palindromes](https://codepen.io/veryallen/pen/YqpmOr)
+
+![book](https://pbs.twimg.com/media/DcZmxNbWAAMGHCA.jpg)
+
 ### Day 96: May 3. Thursday
 
 **Today's Progress**: Today I took a different approach. I found new JavaScript questions on Stack Overflow and just worked on various ones to see if I culd solve the issue and/or just to learn about that code, which led to research/read! I installed new Visual Studio Code extensions after reading it!
