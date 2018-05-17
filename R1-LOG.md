@@ -1,5 +1,13 @@
 ![header](https://github.com/davidqpyle/freeCodeCamp/blob/master/header.png?raw=true:center)
-## Log of Round 1 of #100DaysOfCode "Learning Round" - 2018
+## Log of Round 1 of #100DaysOfCode - 2018
+
+### Day 99: May 12. Saturday
+
+**Today's Progress**: Today I returned to the land of the living and coding. I was knocked off my feet from allergies which turned to a full blown illness. This after being so close to finishing this 100 Days challenge. I'm only at about 85% so I reviewed the last 5 days of progress before I got hit, just as refresher. I updated my GitHub daily log for aboout 5 days of updates.
+
+**Thoughts**: IT really is amazing how quickly the things you've learned can go out the window with a little bit of downtime. I realy need to apply these skills I hve picked up so they are not lost.
+
+**Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/995464361933197313)
 
 ### Day 98: May 7. Monday
 
