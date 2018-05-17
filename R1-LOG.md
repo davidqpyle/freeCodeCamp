@@ -1,6 +1,14 @@
 ![header](https://github.com/davidqpyle/freeCodeCamp/blob/master/header.png?raw=true:center)
 ## Log of Round 1 of #100DaysOfCode - 2018
 
+### Day 100: May 13. Sunday
+
+**Today's Progress**: Today I completed the challenge!! I worked on a song page for a soon to be released single. I updated the homepage so there is a picture which will also lead to the song page. 
+
+**Thoughts**: This 100 Days challenge is a fantastic idea and really pushes you to keep on top of your goals! The support and community helps keep the fires lit. I really learned a lot through this challenge. Hopefully, I will be ready to take on Round 2.
+
+**Links to work**: [Tweet link - thread](https://twitter.com/davidqpyle/status/995853197557235712) - [The Storm Page](https://davidqpyle.me/images/github/thestorm-screenshot.png)
+
 ### Day 99: May 12. Saturday
 
 **Today's Progress**: Today I returned to the land of the living and coding. I was knocked off my feet from allergies which turned to a full blown illness. This after being so close to finishing this 100 Days challenge. I'm only at about 85% so I reviewed the last 5 days of progress before I got hit, just as refresher. I updated my GitHub daily log for aboout 5 days of updates.
