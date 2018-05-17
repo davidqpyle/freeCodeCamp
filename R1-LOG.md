@@ -10,11 +10,16 @@
 🔹Created my own Portfolio Website
 🔹Picked up multiple new books on coding
 🔹Met up with freeCodeCamp Mississauga group
-🔹Learned about Git Hub and created my own page with repo's as well as learne about commits and push/pull requests
+🔹Learned about Git Hub and created my own page with repo's as well as learned about commits and push/pull requests
 🔹Learned about CodePen and created my own CodePen page
 🔹Learned a little bit about CSS Animation
 🔹Learned about new IDE's and all the plug-ins you can add - VS Code, Brackets, Atom Editor, and Sublime 
 🔹And met some AMAZING people in this community!!
+
+There is so much more I could add, but they are intangibles and just areas that go with the process of completing this challenge such as magazine/blog articles, podcasts, demos, etc...
+
+**Keep learning!!!**
+---------
 
 ### Day 100: May 13. Sunday
 
