@@ -1,6 +1,21 @@
 ![header](https://github.com/davidqpyle/freeCodeCamp/blob/master/header.png?raw=true:center)
 ## Log of Round 1 of #100DaysOfCode - 2018
 
+### 100 Days Summary**:
+
+🔹Earned 5 Certifictaes in HTML CSS and JavaScript (plus another course that ended up not giving me a certificate as promised)
+🔹Took Wes Bos CSS Grid Course - GriddyUp
+🔹Started freeCodeCamp Front End Developers Certification Program
+🔹Created a Tribute Page
+🔹Created my own Portfolio Website
+🔹Picked up multiple new books on coding
+🔹Met up with freeCodeCamp Mississauga group
+🔹Learned about Git Hub and created my own page with repo's as well as learne about commits and push/pull requests
+🔹Learned about CodePen and created my own CodePen page
+🔹Learned a little bit about CSS Animation
+🔹Learned about new IDE's and all the plug-ins you can add - VS Code, Brackets, Atom Editor, and Sublime 
+🔹And met some AMAZING people in this community!!
+
 ### Day 100: May 13. Sunday
 
 **Today's Progress**: Today I completed the challenge!! I worked on a song page for a soon to be released single. I updated the homepage so there is a picture which will also lead to the song page. 
