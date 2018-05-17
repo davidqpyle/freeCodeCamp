@@ -7,7 +7,9 @@
 
 **Thoughts**: This 100 Days challenge is a fantastic idea and really pushes you to keep on top of your goals! The support and community helps keep the fires lit. I really learned a lot through this challenge. Hopefully, I will be ready to take on Round 2.
 
-**Links to work**: [Tweet link - thread](https://twitter.com/davidqpyle/status/995853197557235712) - [The Storm Page](https://davidqpyle.me/images/github/thestorm-screenshot.png)
+**Links to work**: [Tweet link - thread](https://twitter.com/davidqpyle/status/995853197557235712)
+
+![The Storm Page](https://davidqpyle.me/images/github/thestorm-screenshot.png)
 
 ### Day 99: May 12. Saturday
 
