@@ -1,7 +1,7 @@
 ![header](https://github.com/davidqpyle/freeCodeCamp/blob/master/header.png?raw=true:center)
 ## Log of Round 1 of #100DaysOfCode - 2018
 
-### 100 Days Summary**:
+### 100 Days Summary:
 
 🔹Earned 5 Certifictaes in HTML CSS and JavaScript (plus another course that ended up not giving me a certificate as promised)
 🔹Took Wes Bos CSS Grid Course - GriddyUp
