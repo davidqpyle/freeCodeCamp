@@ -1,19 +1,57 @@
 ![header](https://github.com/davidqpyle/freeCodeCamp/blob/master/header.png?raw=true:center)
-## Log of Round 1 of #100DaysOfCode - 2018
+### [Round1](https://davidqpyle.github.io/#R1)
+
+## [Log of Round 2 of #100DaysOfCode - 2018](#R2)
+
+
+### Day 1 and 2: August 7 and August 8. Tuesday and Wednesday
+**Today's Progress**: Today I got back into the freeCodeCamp Responsive Web Design Certification. I have completed up through the Applied Accessibility section. Worked on this GitHub page and learned about linking within the page using this markup syntax
+
+**Thoughts**: After re-commiting, I had second thoughts about how much time this was going to require. Once I started I was good to go again!! I am very glad I just sat down and started.
+
+**Links to work**:
+
+[Basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/#links)
+
+[Twitter link](https://twitter.com/davidqpyle/status/1027369133032263680)
+
+
+### Day 0: August 6. Monday
+**Today's Progress**: Today I decided to get back into the #100DaysOfCode challenge to keep me pushing and learning. 
+
+**Thoughts**: I felt like I lost something when the round one challenge was over with and hopefully this recaptures that motivation!
+
+**Links to work**: 
+
+[Twitter link](https://twitter.com/davidqpyle/status/1026556694699155460)
+
+
+## [Log of Round 1 of #100DaysOfCode - 2018](#R1)
 
 ### 100 Days Summary:
 
 🔹Earned 5 Certifictaes in HTML CSS and JavaScript (plus another course that ended up not giving me a certificate as promised)
+
 🔹Took Wes Bos CSS Grid Course - GriddyUp
+
 🔹Started freeCodeCamp Front End Developers Certification Program
+
 🔹Created a Tribute Page
+
 🔹Created my own Portfolio Website
+
 🔹Picked up multiple new books on coding
+
 🔹Met up with freeCodeCamp Mississauga group
+
 🔹Learned about Git Hub and created my own page with repo's as well as learned about commits and push/pull requests
+
 🔹Learned about CodePen and created my own CodePen page
+
 🔹Learned a little bit about CSS Animation
+
 🔹Learned about new IDE's and all the plug-ins you can add - VS Code, Brackets, Atom Editor, and Sublime 
+
 🔹And met some AMAZING people in this community!!
 
 There is so much more I could add, but they are intangibles and just areas that go with the process of completing this challenge such as magazine/blog articles, podcasts, demos, etc...
