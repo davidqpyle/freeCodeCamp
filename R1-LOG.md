@@ -250,7 +250,7 @@ There is so much more I could add, but they are intangibles and just areas that 
 
 **Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/985646369380630529)
 
-![challenge#3](http://davidqpyle.me/images/github/JS4K-Ch6-hackerspeak.png)
+![challenge#3](https://davidqpyle.me/images/github/JS4K-Ch6-hackerspeak.png)
 
 ### April 14. Saturday - OFF DAY
 
@@ -262,7 +262,7 @@ There is so much more I could add, but they are intangibles and just areas that 
 
 **Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/985331637222244352)
 
-![challenge#1](http://davidqpyle.me/images/github/JS4K-CH6-Challenges.png) ![challenge#2](http://davidqpyle.me/images/github/JS4K-CH6-RSG-Challenge.png)
+![challenge#1](https://davidqpyle.me/images/github/JS4K-CH6-Challenges.png) ![challenge#2](https://davidqpyle.me/images/github/JS4K-CH6-RSG-Challenge.png)
 
 ### Day 77: April 12. Thursday
 
@@ -288,7 +288,7 @@ There is so much more I could add, but they are intangibles and just areas that 
 
 **Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/983875959333031937)
 
-![if-else code](http://davidqpyle.me/images/github/ifelse-code.png)
+![if-else code](https://davidqpyle.me/images/github/ifelse-code.png)
 
 ### Day 74: April 9. Monday
 
@@ -355,7 +355,7 @@ There is so much more I could add, but they are intangibles and just areas that 
 **Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/981717514752286720)
 
 ![JS4Kids](https://pbs.twimg.com/media/DZ_Cv3hWAAAcbvU.jpg)
-![movie code snippet](http://www.davidqpyle.me/images/github/movie-age-requirement.png)
+![movie code snippet](https://www.davidqpyle.me/images/github/movie-age-requirement.png)
 
 ### Day 68: April 3. Tuesday
 
@@ -364,7 +364,7 @@ There is so much more I could add, but they are intangibles and just areas that 
 **Thoughts**: I feel like this book is really explaining things in JS where I am really starting to grasp it!
 
 **Links to work**: [Tweet link](https://twitter.com/davidqpyle/status/981344743291604992)
-![sentence code snippet](http://www.davidqpyle.me/images/github/capitalize-lowercase-sentence.png)
+![sentence code snippet](https://www.davidqpyle.me/images/github/capitalize-lowercase-sentence.png)
 
 ## Day 67: April 2. Monday
 
@@ -616,7 +616,7 @@ There is so much more I could add, but they are intangibles and just areas that 
 
 **Thought**: I was really doubting whether or not I had the umph to continue down this road, but every time I ever seem to have any doubts, I get a kick in the pants and seem to pick up steam. I must have spent 4 hours or more cosing today. Really applying things I have learned and finding my own way to code and complete the tasks. Feels good! I do need to get httpS for my site.
 
-**Tweets to work**: [Tweet link](https://twitter.com/davidqpyle/status/966482919958155264) [Quackit PHP Form](https://www.quackit.com/html/codes/html_form_to_email.cfm) [Portfolio](http://davidqpyle.me/)
+**Tweets to work**: [Tweet link](https://twitter.com/davidqpyle/status/966482919958155264) [Quackit PHP Form](https://www.quackit.com/html/codes/html_form_to_email.cfm) [Portfolio](https://davidqpyle.me/)
 
 ### Day 38: February 20. Tuesday
 
@@ -708,7 +708,7 @@ There is so much more I could add, but they are intangibles and just areas that 
 
 ### Day 1: January 13. Saturday
 Committed publicly that I am starting #100DaysOfCode:
-I'm publicly committing to the 100DaysOfCode Challenge starting today! Learn More and Join me! http://100DaysOfCode.com  #100DaysOfCode Today I went through Lessons 13-37 on the #freeCodeCamp front end certification challenge
+I'm publicly committing to the 100DaysOfCode Challenge starting today! Learn More and Join me! https://100DaysOfCode.com  #100DaysOfCode Today I went through Lessons 13-37 on the #freeCodeCamp front end certification challenge
 
 **Today's Progress**: Today I went through Lessons 13-37 on the #freeCodeCamp front end certification challenge
 
@@ -937,7 +937,7 @@ Tweet link: https://twitter.com/davidqpyle/status/959938689592971265
 
 **Thoughts**: Need more training on JavaScript. I actually need training and a project to build so I can see real world examples on how it works in life.
 
-**Link to work**: http://www.davidqpyle.me/ Tweet link: https://twitter.com/davidqpyle/status/961811965487104000
+**Link to work**: https://www.davidqpyle.me/ Tweet link: https://twitter.com/davidqpyle/status/961811965487104000
 
 ### Day 27: February 9. Friday
 
